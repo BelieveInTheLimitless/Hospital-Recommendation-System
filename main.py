@@ -6,4 +6,3 @@ r = requests.get(url)
 content = r.content
 soup = BeautifulSoup(content, 'html.parser')
 
-
