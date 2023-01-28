@@ -1,25 +1,36 @@
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
-import numpy as np
 
-pages = np.arange(1, 8, 1)
+pages = [i for i in range(1, 9)]
 
-areas = ["thergaon", "varye-bk", "lonikand", "kolwadi", "alandi-chorachi", "pimpalgaon-mahalunge", "kuruli", "kalewadi", "shivajinagar", "bibvewadi", "hadpsar-ie", "khadki-bazar", "mohamadwadi", "chinchwadgaon", "phursungi", "karvenagar", "n-i-b-m", "viman-nagar", "baner-road", "kothrud", "navsahyadri", "sadashiv-peth", "khadakwal", "ghotondi", "sonari", "varale", "pimpri-bk", "vasuli", "pimpri", "kolvadi", "mulanagar", "sate", "saygaon", "kondhwa-kh", "wakad", "malewadi", "hadapsar", "khadki", "parvati", "shivajinagar-pune", "deccan-gymkhana", "swargate-chowk", "dapodi", "bhukum", "kondhwa-lh", "kalas", "tathawade", "khadaki", "baner", "airport-pune", "market-yard-pune", "akurdi", "dehu", "lonavala-bazar", "shivnagar", "vagholi", "katraj", "aundh-pune"]
+suburbs = []
 
-data = {
-    'Name': [],
-    'Type': [],
-    'Rating': [],
-    'Delivery Time': [],
-    'Price': []
-}
+subs = open('pune_suburbs.txt', 'r')
 
-for page in pages:
+for line in subs:
+    line = line.lower()
+    line = line.replace(' ', '-')
+    line = line.replace('(', '')
+    line = line.replace(')', '')
+    line = line.replace('.', '')
+    line = line.strip()
+    suburbs.append(line)
 
-    for area in areas:
-        
-        source = requests.get("https://www.swiggy.com/city/pune/" + str(area) + "-restaurants?page=" + str(page)).text
+subs.close()
+
+
+for suburb in suburbs:
+    data = {
+        'Name': [],
+        'Type': [],
+        'Rating': [],
+        'Delivery Time': [],
+        'Price': []
+    }
+
+    for page in pages:
+        source = requests.get("https://www.swiggy.com/city/pune/" + str(suburb) + "-restaurants?page=" + str(page)).text
 
         soup = BeautifulSoup(source, 'lxml')
 
@@ -38,14 +49,15 @@ for page in pages:
 
             price_for_two = details[2]
 
-
             data['Name'].append(name)
             data['Type'].append(type)
             data['Rating'].append(rating)
             data['Delivery Time'].append(minutes)
             data['Price'].append(price_for_two[1:])
 
+    df = pd.DataFrame(data)
+    if suburb == suburbs[0]:
+        df.to_csv('pune_restaurants_data.csv', index=False)
+    else:
+        df.to_csv('pune_restaurants_data.csv', mode='a', index=False, header=False)
 
-        df = pd.DataFrame(data)
-
-df.to_csv('restaurants_data.csv')
