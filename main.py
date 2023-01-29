@@ -23,9 +23,9 @@ subs.close()
 for suburb in suburbs:
     data = {
         'Name': [],
+        'Location' : [],
         'Type': [],
         'Rating': [],
-        'Delivery Time': [],
         'Price': []
     }
 
@@ -37,6 +37,8 @@ for suburb in suburbs:
         for restaurant in soup.find_all('div', class_='_3XX_A'):
 
             name = restaurant.find('div', class_='nA6kb').text
+            
+            location = suburb
 
             type = restaurant.find('div', class_='_1gURR').text
 
@@ -45,14 +47,13 @@ for suburb in suburbs:
 
             rating = details[0]
 
-            minutes = details[1]
 
             price_for_two = details[2]
 
             data['Name'].append(name)
+            data['Location'].append(location)
             data['Type'].append(type)
             data['Rating'].append(rating)
-            data['Delivery Time'].append(minutes)
             data['Price'].append(price_for_two[1:])
 
     df = pd.DataFrame(data)
