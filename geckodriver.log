@@ -3873,3 +3873,54 @@ JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.en.upKIkAHa6No.201
 JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
 JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
 1677851400321	Marionette	INFO	Stopped listening on port 42613
+1677852517340	geckodriver	INFO	Listening on 127.0.0.1:50436
+1677852520391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO~1.LAP\\AppData\\Local\\Temp\\rust_mozprofilew0JDer"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677852520670	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677852520675	Marionette	INFO	Listening on port 50451
+Read port: 50451
+WebDriver BiDi listening on ws://127.0.0.1:50437
+1677852520776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO~1.LAP\\AppData\\Local\\Temp\\rust_mozprofilew0JDer\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50437/devtools/browser/fa9a7777-ca3b-43fc-a0ee-5a3e9ba9c0dd
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.en.upKIkAHa6No.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=FsgEBA/rt=j/d=1/rs=ACT90oEm_i3nEG9Ccs4QSnjmnifNvQytGA, line 2721: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1677852525169	Marionette	INFO	Stopped listening on port 50451
+Dynamically enable window occlusion 1
+1677852949354	geckodriver	INFO	Listening on 127.0.0.1:50546
+1677852952416	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileI2VxgE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677852952668	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677852952672	Marionette	INFO	Listening on port 50556
+WebDriver BiDi listening on ws://127.0.0.1:50547
+Read port: 50556
+1677852952874	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileI2VxgE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50547/devtools/browser/41c03d60-24b6-4cc1-b59a-99599c5eb787
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.en.upKIkAHa6No.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=FsgEBA/rt=j/d=1/rs=ACT90oEm_i3nEG9Ccs4QSnjmnifNvQytGA, line 2721: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1677852956964	Marionette	INFO	Stopped listening on port 50556
+Dynamically enable window occlusion 1
+1677853014275	geckodriver	INFO	Listening on 127.0.0.1:50620
+1677853017322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO~1.LAP\\AppData\\Local\\Temp\\rust_mozprofile4dQNul"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677853017567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677853017571	Marionette	INFO	Listening on port 50630
+WebDriver BiDi listening on ws://127.0.0.1:50621
+Read port: 50630
+1677853017781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO~1.LAP\\AppData\\Local\\Temp\\rust_mozprofile4dQNul\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50621/devtools/browser/151b267f-7b8b-4ce8-8c22-12318d08062e
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.en.upKIkAHa6No.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=FsgEBA/rt=j/d=1/rs=ACT90oEm_i3nEG9Ccs4QSnjmnifNvQytGA, line 2721: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1677853021911	Marionette	INFO	Stopped listening on port 50630
+Dynamically enable window occlusion 1

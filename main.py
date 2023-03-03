@@ -7,7 +7,8 @@ driver = webdriver.Firefox()
 # Load the page
 url = "https://www.google.com/maps/search/hospitals/"
 driver.get(url)
-print(driver.title)
+#print(driver.title)
+print("Hospitals Data\n")
 
 
 hospitals_list = driver.find_elements(By.CSS_SELECTOR, 'a.hfpxzc')
