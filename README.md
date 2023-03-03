@@ -1,5 +1,5 @@
 # Hospital-Recommedation-System
-A Data Science Project focused on figuring out the Best Hospitals in Maharashtra based on the ratings, location, specific disease and economical factors through the data acquired from Google Map.
+A Data Science Project focused on figuring out the Best Hospitals in Maharashtra based on the ratings, location, specific disease and economical factors through the data acquired from Google Maps.
 
 
 ## Technologies Used :
