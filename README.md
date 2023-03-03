@@ -10,7 +10,7 @@ A Data Science Project focused on figuring out the Best Hospitals in Maharashtra
 ## Creating the environment
 
 ```
-$ git clone https://github.com/BelieveInTheLimitless/Food-Habits-Analysis.git
+$ git clone https://github.com/BelieveInTheLimitless/Hospital-Recommendation-System.git
 ```
 
 ## Installing Dependencies
