@@ -5202,3 +5202,17 @@ JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D l
 JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
 JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
 1677867226805	Marionette	INFO	Stopped listening on port 38713
+1677869704666	geckodriver	INFO	Listening on 127.0.0.1:57955
+1677869707730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57956" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO~1.LAP\\AppData\\Local\\Temp\\rust_mozprofile41VqhY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677869707980	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677869707984	Marionette	INFO	Listening on port 57966
+WebDriver BiDi listening on ws://127.0.0.1:57956
+Read port: 57966
+1677869708188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO~1.LAP\\AppData\\Local\\Temp\\rust_mozprofile41VqhY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57956/devtools/browser/594a9ba1-8c33-4a61-8b92-df21ca69a1ff
+1677869721258	Marionette	INFO	Stopped listening on port 57966
+Dynamically enable window occlusion 1
