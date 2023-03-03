@@ -7,12 +7,13 @@ driver = webdriver.Firefox()
 # Load the page
 url = "https://www.google.com/maps/search/hospitals/"
 driver.get(url)
+print(driver.title)
 
 # Find all the div elements with class 'hfpxzc'
-hfpxzc_divs = driver.find_elements(By.CLASS_NAME, "DUwDvf fontHeadlineLarge")
+hospitals_list = driver.find_elements(By.CLASS_NAME, "DUwDvf fontHeadlineLarge")
 # Print the divs
-for div in hfpxzc_divs:
-    print(div.tag_name)
+for hospital in hospitals_list:
+    print(hospital.tag_name)
 
 # Close the driver
 driver.quit()
