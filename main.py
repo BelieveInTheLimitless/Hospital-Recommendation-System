@@ -9,11 +9,11 @@ url = "https://www.google.com/maps/search/hospitals/"
 driver.get(url)
 print(driver.title)
 
-# Find all the div elements with class 'hfpxzc'
-hospitals_list = driver.find_elements(By.CLASS_NAME, "DUwDvf fontHeadlineLarge")
-# Print the divs
+
+hospitals_list = driver.find_elements(By.CSS_SELECTOR, 'a.hfpxzc')
+
 for hospital in hospitals_list:
-    print(hospital.tag_name)
+    print(hospital.get_attribute('aria-label'))
 
 # Close the driver
 driver.quit()
