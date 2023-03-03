@@ -1,64 +1,18 @@
-from bs4 import BeautifulSoup
-import requests
-import pandas as pd
+from selenium import webdriver
+from selenium.webdriver.common.by import By
 
-pages = [i for i in range(1, 9)]
+# Set up the driver
+driver = webdriver.Firefox()
 
-suburbs = []
+# Load the page
+url = "https://www.google.com/maps/search/hospitals/"
+driver.get(url)
 
-subs = open('pune_suburbs.txt', 'r')
+# Find all the div elements with class 'hfpxzc'
+hfpxzc_divs = driver.find_elements(By.CLASS_NAME, "DUwDvf fontHeadlineLarge")
+# Print the divs
+for div in hfpxzc_divs:
+    print(div.tag_name)
 
-for line in subs:
-    line = line.lower()
-    line = line.replace(' ', '-')
-    line = line.replace('(', '')
-    line = line.replace(')', '')
-    line = line.replace('.', '')
-    line = line.strip()
-    suburbs.append(line)
-
-subs.close()
-
-
-for suburb in suburbs:
-    data = {
-        'Name': [],
-        'Location' : [],
-        'Type': [],
-        'Rating': [],
-        'Price': []
-    }
-
-    for page in pages:
-        source = requests.get("https://www.swiggy.com/city/pune/" + str(suburb) + "-restaurants?page=" + str(page)).text
-
-        soup = BeautifulSoup(source, 'lxml')
-
-        for restaurant in soup.find_all('div', class_='_3XX_A'):
-
-            name = restaurant.find('div', class_='nA6kb').text
-            
-            location = suburb
-
-            type = restaurant.find('div', class_='_1gURR').text
-
-            details = restaurant.find('div', class_='_3Mn31').text
-            details = details.split('•')
-
-            rating = details[0]
-
-
-            price_for_two = details[2]
-
-            data['Name'].append(name)
-            data['Location'].append(location)
-            data['Type'].append(type)
-            data['Rating'].append(rating)
-            data['Price'].append(price_for_two[1:])
-
-    df = pd.DataFrame(data)
-    if suburb == suburbs[0]:
-        df.to_csv('pune_restaurants_data.csv', index=False)
-    else:
-        df.to_csv('pune_restaurants_data.csv', mode='a', index=False, header=False)
-
+# Close the driver
+driver.quit()

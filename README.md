@@ -1,11 +1,11 @@
-# Food-Habits-Analysis
-A Data Science Project focused on figuring out the food habits of people based on the data acquired from Swiggy and their partner restaurants.
+# Hospital-Recommedation-System
+A Data Science Project focused on figuring out the Best Hospitals in Maharashtra based on the ratings, location, specific disease and economical factors through the data acquired from Google Map.
 
 
 ## Technologies Used :
 
 - Python3
-- BeautifulSoup
+- Selenium webdriver
 
 ## Creating the environment
 
