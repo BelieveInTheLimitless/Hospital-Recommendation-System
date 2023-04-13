@@ -21,6 +21,20 @@ def extract_type(Info):
     hos_type = parts[0].strip()
     return hos_type
 
+def extract_number(Rating):
+
+    parts = Rating.split('(')
+    print(parts)
+    number = parts[1].split(')')
+    Return = number[0]
+    return Return
+
+def extract_rating(Rating):
+
+    parts = Rating.split('(')
+    print(parts)
+    return parts[0]
+
 # Define a function to extract the hospital type
 def extract_address(Info):
     # Split the address string by comma
@@ -30,8 +44,12 @@ def extract_address(Info):
     return address
 
 # Apply the function to the 'Address' column to extract the city name
+
+data['Ratings'] = data['Rating'].apply(extract_rating)
+data.drop(['Rating'], axis=1)
 data['Type_hospital'] = data['Info'].apply(extract_type)
 data['Address_Contact'] = data['Info'].apply(extract_address)
+data['Number_of_Ratings'] = data['Rating'].apply(extract_number)
 
 # Save the updated DataFrame to a new CSV file
 data.to_csv('modified.csv', index=False)
