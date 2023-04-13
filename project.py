@@ -11,17 +11,17 @@ new_df.to_csv('output_file.csv', index=False)
 
 data = pd.read_csv('output_file.csv')
 
-# Define a function to extract the city name
-def extract_city(Info):
+# Define a function to extract the hospital type
+def extract_type(Info):
     # Split the address string by comma
     parts = Info.split('·')
     parts = parts[0].split(',')
     # The city name should be the second-to-last part
-    city = parts[0].strip()
-    return city
+    hos_type = parts[0].strip()
+    return hos_type
 
 # Apply the function to the 'Address' column to extract the city name
-data['Type_hospital'] = data['Info'].apply(extract_city)
+data['Type_hospital'] = data['Info'].apply(extract_type)
 
 # Save the updated DataFrame to a new CSV file
 data.to_csv('modified.csv', index=False)
