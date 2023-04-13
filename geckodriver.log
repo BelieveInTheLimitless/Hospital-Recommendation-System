@@ -5216,3 +5216,26 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:57956/devtools/browser/594a9ba1-8c33-4a61-8b92-df21ca69a1ff
 1677869721258	Marionette	INFO	Stopped listening on port 57966
 Dynamically enable window occlusion 1
+1678558588856	geckodriver	INFO	Listening on 127.0.0.1:59739
+1678558591941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileTGStKQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1678558592305	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1678558592311	Marionette	INFO	Listening on port 59751
+WebDriver BiDi listening on ws://127.0.0.1:59740
+Read port: 59751
+1678558592553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LENOVO~1.LAP\\AppData\\Local\\Temp\\rust_mozprofileTGStKQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59740/devtools/browser/db18334f-a4d4-44f9-9a07-2b845ab65cc1
+JavaScript warning: https://www.google.com/maps/_/js/k=maps.m.en.z5VyBqLFCqk.2019.O/m=sc2,per,mo,lp,ep,ti,ds,stx,pwd,dw,plm,log,b/am=FsgEBA/rt=j/d=1/rs=ACT90oG3ID_TM21aAh9Z38VAA6gLyoCnsw, line 2704: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1678558605143	Marionette	INFO	Stopped listening on port 59751
+Dynamically enable window occlusion 1

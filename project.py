@@ -1,32 +1,27 @@
-import csv
-import googlemaps
+import pandas as pd
 
-# Set up the Google Maps API client
-api_key = 'AIzaSyBzFeRsrQtomI0E-Czwa0j5aq_N1volIvA'
-gmaps = googlemaps.Client(api_key)
+# Read the CSV file into a DataFrame
+df = pd.read_csv('hospitals_data.csv')
 
-# Search for hospitals near a specific location
-location = 'Pune'
-radius = 5000  # meters
-query = 'hospital'
-places_result = gmaps.places(query, location=location, radius=radius)
+# Extract the column you want to copy into a new DataFrame
+new_df = df[['Name','Co-ordinates','Rating','Info']]
 
-# Extract the relevant information from the API response
-results = []
-for place in places_result['results']:
-    result = {
-        'name': place['name'],
-        'address': place['formatted_address'],
-        'location': place['geometry']['location'],
-        'rating': place.get('rating', ''),
-        'types': place['types'],
-    }
-    results.append(result)
+# Save the new DataFrame to a new CSV file
+new_df.to_csv('output_file.csv', index=False)
 
-# Save the results to a CSV file
-with open('data.csv', 'w', newline='', encoding='utf-8') as csvfile:
-    fieldnames = ['name', 'address', 'location', 'rating', 'types']
-    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-    writer.writeheader()
-    for result in results:
-        writer.writerow(result)
+data = pd.read_csv('output_file.csv')
+
+# Define a function to extract the city name
+def extract_city(Info):
+    # Split the address string by comma
+    parts = Info.split('·')
+    parts = parts[0].split(',')
+    # The city name should be the second-to-last part
+    city = parts[0].strip()
+    return city
+
+# Apply the function to the 'Address' column to extract the city name
+data['Type_hospital'] = data['Info'].apply(extract_city)
+
+# Save the updated DataFrame to a new CSV file
+data.to_csv('modified.csv', index=False)
