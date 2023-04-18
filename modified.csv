@@ -1,4 +1,4 @@
-Name,Co-ordinates,Rating,Info,Ratings,Type_hospital,Address_Contact,Number_of_Ratings
+Name,Co-ordinates,Rating,Info,Ratings,Type_hospital,Address_Contact,Number_of_Reviews
 Nagare Nursing Home,"('18.4611943', '73.7732869')",4.6(17),"General hospital · 228/2, Plot no.90, near vegetable market and vitthal mandir
 Open 24 hours · 098220 91755",4.6,General hospital," 228/2, Plot no.90, near vegetable market and vitthal mandir
 Open 24 hours ",17
@@ -39,10 +39,10 @@ Sinhagad Speciality Hospital,"('18.4542414', '73.7957777')",4.9(8),"Hospital · 
 Open 24 hours · 020 2439 2212",4.9,Hospital," Nanded phata, Sinhgad Rd
 Open 24 hours ",8
 Jeevan Uday Multispeciality Hospital,"('18.442847', '73.7809432')",5.0(50),"Hospital · above Tulsibaug shop
-Open 24 hours",5.0,Hospital," above Tulsibaug shop
+Open 24 hours",5,Hospital," above Tulsibaug shop
 Open 24 hours",50
 Thube Nursing Home,"('18.4415238', '73.7776488')",5.0(1),"Hospital · Lamanwadi
-Open 24 hours · 096578 54801",5.0,Hospital," Lamanwadi
+Open 24 hours · 096578 54801",5,Hospital," Lamanwadi
 Open 24 hours ",1
 Nanded Multispeciality Hospital,"('18.4582274', '73.7870676')",4.1(90),"Hospital · no. 10, NIRMALA HEIGHTS, 11/1B, Nanded City Sinhgad Rd, near tamilnadu Mercantile Bank s
 Open 24 hours · 020 6752 7445",4.1,Hospital," no. 10, NIRMALA HEIGHTS, 11/1B, Nanded City Sinhgad Rd, near tamilnadu Mercantile Bank s
@@ -56,7 +56,7 @@ Open 24 hours ",46
 Silver Brich Multispeciality Clinic And Labs,"('18.442152', '73.7991917')",0(0),"General hospital · Shop No 15, Bhaskar H Society
 Open ⋅ Closes 10 pm · 083906 70666",0,General hospital," Shop No 15, Bhaskar H Society
 Open ⋅ Closes 10 pm ",0
-jalore hospital,"('18.4472027', '73.810127')",5.0(1),Hospital · 411041,5.0,Hospital, 411041,1
+jalore hospital,"('18.4472027', '73.810127')",5.0(1),Hospital · 411041,5,Hospital,411041,1
 SILVER BIRCH MULTISPECIALITY HOSPITAL PVT.LTD.,"('18.4406247', '73.8095129')",3.4(89),"Hospital · SR.NO.74, 6, Raikar Mala Rd
 Open 24 hours · 099210 44540",3.4,Hospital," SR.NO.74, 6, Raikar Mala Rd
 Open 24 hours ",89
@@ -67,11 +67,11 @@ Dawakhana,"('18.45734', '73.8043984')",0(0),"General hospital · Shop No 2, Narh
 Open ⋅ Closes 9 pm · 099294 79072",0,General hospital," Shop No 2, Narhe, 41, Sinhgad Rd, near Hotel Abhiruchi
 Open ⋅ Closes 9 pm ",0
 "SHREE HOSPITAL, NARHE, PUNE","('18.4479025', '73.8289066')",5.0(7),"Hospital · Bus stop, Narhe, Ingale Empire, Vetal buwa chauk, near
-Open 24 hours · 098909 45922",5.0,Hospital," Bus stop, Narhe, Ingale Empire, Vetal buwa chauk, near
+Open 24 hours · 098909 45922",5,Hospital," Bus stop, Narhe, Ingale Empire, Vetal buwa chauk, near
 Open 24 hours ",7
 Hospital,"('18.446371', '73.8270458')",0(0),"Hospital · 1, Narhe Gaon Rd",0,Hospital," 1, Narhe Gaon Rd",0
 VIGHNAHARTA HOSPITAL,"('18.4451668', '73.8222607')",4.0(53),"Hospital · Shree Control Chowk
-Open 24 hours",4.0,Hospital," Shree Control Chowk
+Open 24 hours",4,Hospital," Shree Control Chowk
 Open 24 hours",53
 Shraddha Clinic,"('18.4442388', '73.8218845')",0(0),"General hospital · Shop No 11, Varad Vinayak Conplex, B, Malhar Pride, Abhinav College Rd
 Closed ⋅ Opens 10:30 am Tue · 077220 07536",0,General hospital," Shop No 11, Varad Vinayak Conplex, B, Malhar Pride, Abhinav College Rd
@@ -86,7 +86,7 @@ Open ⋅ Closes 2:45 pm ",539
 Open 24 hours",3.6,Hospital," Sr.no.56/12 Walhekar properties, mumbai-banglore highway,service road, near HDFC Bank
 Open 24 hours",42
 Shrimangal hospital,"('18.4513915', '73.8194894')",3.0(1),"Hospital · FR29+HQ5
-099223 13031",3.0,Hospital," FR29+HQ5
+099223 13031",3,Hospital," FR29+HQ5
 099223 13031",1
 Shwas Multispeciality Hospital,"('18.4467929', '73.837432')",4.2(37),"Hospital · Shiv Goraksh Ashram Marg, next to Sun Bright School
 Open 24 hours · 093736 99122",4.2,Hospital," Shiv Goraksh Ashram Marg, next to Sun Bright School
@@ -95,7 +95,7 @@ sanjivani hospital,"('18.4488137', '73.8417618')",3.6(5),"General hospital · CR
 Open 24 hours",3.6,General hospital," CRXR+GPC
 Open 24 hours",5
 Manas Hospital,"('18.4497718', '73.8378171')",4.0(13),"Hospital · Ground Floor, Shivalay Heights, near Gaymukh Smashanbhumi
-Open ⋅ Closes 11:59 pm · 073857 48612",4.0,Hospital," Ground Floor, Shivalay Heights, near Gaymukh Smashanbhumi
+Open ⋅ Closes 11:59 pm · 073857 48612",4,Hospital," Ground Floor, Shivalay Heights, near Gaymukh Smashanbhumi
 Open ⋅ Closes 11:59 pm ",13
 Syon Hospital,"('18.4463767', '73.8270903')",0(0),"Hospital · CRWG+HR4, Narhe Gaon Rd
 Open ⋅ Closes 1 pm ⋅ Reopens 5 pm",0,Hospital," CRWG+HR4, Narhe Gaon Rd
@@ -113,16 +113,16 @@ Mauli Clinic,"('18.4548759', '73.8475692')",0(0),"General hospital · Shop No 1,
 Open ⋅ Closes 6 pm · 093095 20340",0,General hospital," Shop No 1, Shriram Nagar Khed Shivapur
 Open ⋅ Closes 6 pm ",0
 Khetmalas Hospital,"('18.4514213', '73.8580629')",5.0(1),"Hospital · No 03, Pune - Satara Rd
-Open now",5.0,Hospital," No 03, Pune - Satara Rd
+Open now",5,Hospital," No 03, Pune - Satara Rd
 Open now",1
 AAI HOSPITAL,"('18.4524604', '73.8509194')",0(0),"Hospital · 39, Chandrabhaga Nagar Rd",0,Hospital," 39, Chandrabhaga Nagar Rd",0
 "SHIVNERI HOSPITAL. C-1 Building, Manik Moti Co-operative Housing Society, Sr. No. 84, More Baug, Katraj, Pune.","('18.4498698', '73.8578128')",5.0(3),"Hospital · 137/7, Manik Moti Internal Rd
-Open 24 hours · 020 2436 6886",5.0,Hospital," 137/7, Manik Moti Internal Rd
+Open 24 hours · 020 2436 6886",5,Hospital," 137/7, Manik Moti Internal Rd
 Open 24 hours ",3
 City Care Hospital,"('18.4440947', '73.8782424')",1.0(1),"General hospital · Shop No 01
-Open ⋅ Closes 6 pm · 075072 30896",1.0,General hospital," Shop No 01
+Open ⋅ Closes 6 pm · 075072 30896",1,General hospital," Shop No 01
 Open ⋅ Closes 6 pm ",1
-Pune Medical and Research,"('18.4548523', '73.8787862')",5.0(1),"Hospital · FV3H+WGV, Gangadham - Shatrunjay Rd",5.0,Hospital," FV3H+WGV, Gangadham - Shatrunjay Rd",1
+Pune Medical and Research,"('18.4548523', '73.8787862')",5.0(1),"Hospital · FV3H+WGV, Gangadham - Shatrunjay Rd",5,Hospital," FV3H+WGV, Gangadham - Shatrunjay Rd",1
 Sai Sneh Hospital and Diagnostic Center,"('18.4466665', '73.8594718')",4.4(147),"Hospital · Pune - Satara Rd, opp. PMT Bus Depot
 Open 24 hours · 020 2695 9209",4.4,Hospital," Pune - Satara Rd, opp. PMT Bus Depot
 Open 24 hours ",147
@@ -130,17 +130,17 @@ Bharati Hospital,"('18.459349', '73.857241')",3.3(464),"General hospital · Pune
 Open 24 hours · 020 4055 5555",3.3,General hospital," Pune - Satara Rd
 Open 24 hours ",464
 KHETMALAS Hospital,"('18.4556438', '73.8765253')",5.0(240),"Hospital · gajanan maharaj nagar, Lane No. 3, behind Shivchatrapatti school, near shanti nagar
-Open 24 hours",5.0,Hospital," gajanan maharaj nagar, Lane No. 3, behind Shivchatrapatti school, near shanti nagar
+Open 24 hours",5,Hospital," gajanan maharaj nagar, Lane No. 3, behind Shivchatrapatti school, near shanti nagar
 Open 24 hours",240
 Gawali Hospital,"('18.4435667', '73.8814212')",4.3(4),"Hospital · Vaishnavi Niwas, Kondhwa Budruk, 411048
 Open ⋅ Closes 1 pm · 096656 93164",4.3,Hospital," Vaishnavi Niwas, Kondhwa Budruk, 411048
 Open ⋅ Closes 1 pm ",4
 Mixis Multi Specialty Hospital,"('18.4491376', '73.8760855')",3.0(1),"Hospital · CVXG+MC4, Katraj - Kondhwa Rd
-Open ⋅ Closes 1 pm ⋅ Reopens 6 pm · 099605 20790",3.0,Hospital," CVXG+MC4, Katraj - Kondhwa Rd
+Open ⋅ Closes 1 pm ⋅ Reopens 6 pm · 099605 20790",3,Hospital," CVXG+MC4, Katraj - Kondhwa Rd
 Open ⋅ Closes 1 pm ⋅ Reopens 6 pm ",1
 Siddhivinayak Multi Speciality Hospital,"('18.449792', '73.8741684')",0(0),"Hospital · No. 3, Katraj - Kondhwa Rd",0,Hospital," No. 3, Katraj - Kondhwa Rd",0
 Srishti Hospital,"('18.4489201', '73.8721859')",5.0(1),"Hospital · CVXC+HV7
-Open now",5.0,Hospital," CVXC+HV7
+Open now",5,Hospital," CVXC+HV7
 Open now",1
 Vasant More Hospital,"('18.4533297', '73.869781')",4.4(36),"Government hospital · 2
 Open now",4.4,Government hospital," 2
@@ -152,7 +152,7 @@ Gupta House & Hospital,"('18.4452249', '73.9130842')",0(0),"Hospital · survey n
 Open 24 hours",0,Hospital," survey no 56/6
 Open 24 hours",0
 Hospital,"('18.4616828', '73.8914483')",4.0(3),"Hospital · BLOCK-2C
-Open ⋅ Closes 11 pm · 099756 22923",4.0,Hospital," BLOCK-2C
+Open ⋅ Closes 11 pm · 099756 22923",4,Hospital," BLOCK-2C
 Open ⋅ Closes 11 pm ",3
 Chhaaya Hospital,"('18.4684132', '73.9204507')",0(0),"General hospital · Shop No 2, near Mnc Hospital
 Open ⋅ Closes 10 pm · 092232 82327",0,General hospital," Shop No 2, near Mnc Hospital
@@ -197,7 +197,7 @@ Vighnaharta Hospital,"('18.4849856', '73.9553749')",3.3(24),"General hospital ·
 Open ⋅ Closes 9:30 pm · 099874 63377",3.3,General hospital," FXM4+X4X, Fursungi Bhekrai Rd
 Open ⋅ Closes 9:30 pm ",24
 Yashasvi Hospital,"('18.4843527', '73.939376')",5.0(21),"General hospital · Sr No42, Lane Number 1, near Railway Crossing
-Open 24 hours · 070669 94343",5.0,General hospital," Sr No42, Lane Number 1, near Railway Crossing
+Open 24 hours · 070669 94343",5,General hospital," Sr No42, Lane Number 1, near Railway Crossing
 Open 24 hours ",21
 Swami Samarth Maternity And Children'S Hospital,"('18.4595428', '73.9654099')",0(0),"General hospital · 12, Saswad - Bopdev - Pune Rd
 Open ⋅ Closes 7 pm · 095526 67081",0,General hospital," 12, Saswad - Bopdev - Pune Rd
@@ -209,13 +209,13 @@ Nitya Seva Hospital,"('18.440956', '73.974839')",0(0),"Hospital · CXRF+9WP, A /
 Open ⋅ Closes 1 pm ⋅ Reopens 6 pm · 094058 93173",0,Hospital," CXRF+9WP, A /p Wadki, Dahava Mail, Near Maharashtra Bank, Wadki, Tal. Haveli,, Saswad Rd
 Open ⋅ Closes 1 pm ⋅ Reopens 6 pm ",0
 VIGHNAHARTA CLINIC,"('18.4405159', '73.9848565')",1.0(1),"Private hospital · CXRM+6W5, Prabhu Shankar Gaikwad Patil Road
-Open ⋅ Closes 1 pm ⋅ Reopens 5 pm · 098235 25254",1.0,Private hospital," CXRM+6W5, Prabhu Shankar Gaikwad Patil Road
+Open ⋅ Closes 1 pm ⋅ Reopens 5 pm · 098235 25254",1,Private hospital," CXRM+6W5, Prabhu Shankar Gaikwad Patil Road
 Open ⋅ Closes 1 pm ⋅ Reopens 5 pm ",1
 Shreenath Hospital,"('18.4322325', '73.9788109')",3.7(3),"Hospital · CXJH+VGV, Saswad Road, Trimurti Nagar, Wadki, near Laxman Vajankata
 Open 24 hours · 020 6524 2196",3.7,Hospital," CXJH+VGV, Saswad Road, Trimurti Nagar, Wadki, near Laxman Vajankata
 Open 24 hours ",3
 Shinde Hospital,"('18.429643', '73.9789114')",5.0(3),"Hospital · CXHH+VH3, Saswad Rd
-Closes soon ⋅ 12 pm ⋅ Opens 9 am Tue · 098818 79750",5.0,Hospital," CXHH+VH3, Saswad Rd
+Closes soon ⋅ 12 pm ⋅ Opens 9 am Tue · 098818 79750",5,Hospital," CXHH+VH3, Saswad Rd
 Closes soon ⋅ 12 pm ⋅ Opens 9 am Tue ",3
 Yashorahi multispecialist hospital,"('18.4680985', '73.7847386')",3.6(24),"Hospital·
 Open now · 098230 90327",3.6,Hospital,"
@@ -224,7 +224,7 @@ Unique Multispeciality Hospital,"('18.5011452', '73.7418787')",3.6(15),"Hospital
 Open 24 hours",3.6,Hospital," GP2R+FQ2, Mulsi Road
 Open 24 hours",15
 Vijayshree Hospital,"('18.4557767', '73.7677911')",5.0(3),"Hospital · FQ49+847
-Open 24 hours",5.0,Hospital," FQ49+847
+Open 24 hours",5,Hospital," FQ49+847
 Open 24 hours",3
 Sayali Nursing Home,"('18.4595117', '73.7714824')",3.4(8),"Hospital · NDA Rd
 Open 24 hours · 020 2529 2500",3.4,Hospital," NDA Rd
@@ -238,7 +238,7 @@ Open 24 hours ",11
 Prachiti Hospital,"('18.4571738', '73.8033682')",0(0),"Hospital · sinhgad road, before santosh hall",0,Hospital," sinhgad road, before santosh hall",0
 MORYA MULTISPECIALITY HOSPITAL,"('18.4643861', '73.815326')","4.7(1,348)","Hospital · Anudatta Commercial Complex, Sinhgad Rd
 Open 24 hours · 098220 54141",4.7,Hospital," Anudatta Commercial Complex, Sinhgad Rd
-Open 24 hours ","1,348"
+Open 24 hours ",1348
 Ayush Multispeciality Clinic,"('18.4615757', '73.8169099')",0(0),"General hospital · Shop No 1
 Open ⋅ Closes 6 pm · 094219 62409",0,General hospital," Shop No 1
 Open ⋅ Closes 6 pm ",0
@@ -249,7 +249,7 @@ CHAVAN MULTISPECIALITY HOSPITAL,"('18.4591619', '73.8255178')",4.3(42),"Hospital
 Open 24 hours · 020 2951 7999",4.3,Hospital," Yashganga Construction, Sr. No. 52, Ambegaon Pune-Mumbai Hwy
 Open 24 hours ",42
 Hospital,"('18.4668214', '73.8262267')",3.0(2),"Hospital · 43, Sinhgad College Rd
-Open now",3.0,Hospital," 43, Sinhgad College Rd
+Open now",3,Hospital," 43, Sinhgad College Rd
 Open now",2
 Sparsh hospital,"('18.4546565', '73.8234083')",0(0),"Hospital · Q building, Doctor Quarters Smt. kashibai Navale Medical College and general hospital narhe 41",0,Hospital," Q building, Doctor Quarters Smt. kashibai Navale Medical College and general hospital narhe 41",0
 Doctor Neuse Dawakhana,"('18.4643612', '73.8246448')",0(0),"General hospital · Shop No 7
@@ -259,7 +259,7 @@ Athang Multispecialty Clinic,"('18.4579398', '73.835139')",4.9(7),"General hospi
 Open ⋅ Closes 2 pm ⋅ Reopens 5 pm · 095798 62629",4.9,General hospital," Wing A, Shop # 1, Sabian Apartment, Sinhgad Institute Rd, near Indu Lawns
 Open ⋅ Closes 2 pm ⋅ Reopens 5 pm ",7
 Anand Hospital,"('18.4594865', '73.8385795')",3.0(2),"Hospital · 101, gagan pushp phase 2, SN. 16 Raghav nagar
-Open 24 hours",3.0,Hospital," 101, gagan pushp phase 2, SN. 16 Raghav nagar
+Open 24 hours",3,Hospital," 101, gagan pushp phase 2, SN. 16 Raghav nagar
 Open 24 hours",2
 JS HOSPITAL,"('18.4600004', '73.8258693')",4.8(46),"Private hospital · 1st floor ,Bhuruk Prestige, Navale Bridge, behind Hotel Deccan Pavilion
 Open 24 hours · 072197 48044",4.8,Private hospital," 1st floor ,Bhuruk Prestige, Navale Bridge, behind Hotel Deccan Pavilion
@@ -282,10 +282,10 @@ Open 24 hours · 090287 17979",4.3,Hospital," Survey No 22, Plot 49, Balajinagar
 Open 24 hours ",793
 Parking Bharati Vidyapeeth Hospital,"('18.4582803', '73.8576672')",0(0),Hospital · FV55+837,0,Hospital, FV55+837,0
 Modi Clinic,"('18.4640096', '73.8563498')",5.0(1),"General hospital · Shop No 1, Lekha Society, 61A, Satara Rd
-Open ⋅ Closes 6 pm · 098903 61917",5.0,General hospital," Shop No 1, Lekha Society, 61A, Satara Rd
+Open ⋅ Closes 6 pm · 098903 61917",5,General hospital," Shop No 1, Lekha Society, 61A, Satara Rd
 Open ⋅ Closes 6 pm ",1
 Shreej Hospitals,"('18.4653099', '73.8641411')",5.0(2),"Hospital · Chintamani Apartment, Chintamani Nagar, Swami Vivekanand Rd
-Open ⋅ Closes 8:30 pm · 020 2428 2634",5.0,Hospital," Chintamani Apartment, Chintamani Nagar, Swami Vivekanand Rd
+Open ⋅ Closes 8:30 pm · 020 2428 2634",5,Hospital," Chintamani Apartment, Chintamani Nagar, Swami Vivekanand Rd
 Open ⋅ Closes 8:30 pm ",2
 Trimal Hospital,"('18.4633769', '73.8652518')",4.3(17),"Hospital · 666, Bansilal Path
 Open 24 hours · 020 2428 3185",4.3,Hospital," 666, Bansilal Path
@@ -293,9 +293,9 @@ Open 24 hours ",17
 Dhankawade Hospital,"('18.4616117', '73.8622074')",3.2(10),"Hospital · 23/11, Astvinayak Vihar, A Wing, Near Niwara Society, Dhankawadi Rd
 Open 24 hours",3.2,Hospital," 23/11, Astvinayak Vihar, A Wing, Near Niwara Society, Dhankawadi Rd
 Open 24 hours",10
-Bal Vikas Hospital,"('18.4571058', '73.865878')",2.0(1),"Hospital · 14, Sukhsagar Nagar Main Rd, near GURUDATTA VILLA",2.0,Hospital," 14, Sukhsagar Nagar Main Rd, near GURUDATTA VILLA",1
+Bal Vikas Hospital,"('18.4571058', '73.865878')",2.0(1),"Hospital · 14, Sukhsagar Nagar Main Rd, near GURUDATTA VILLA",2,Hospital," 14, Sukhsagar Nagar Main Rd, near GURUDATTA VILLA",1
 Aayur Clinic,"('18.461305', '73.8758405')",4.0(3),"General hospital · Lane no.10,upper kondhwa road Opp mahesh sanskrutic bhavan/basil home
-Open ⋅ Closes 9 pm · 098231 93526",4.0,General hospital," Lane no.10,upper kondhwa road Opp mahesh sanskrutic bhavan/basil home
+Open ⋅ Closes 9 pm · 098231 93526",4,General hospital," Lane no.10,upper kondhwa road Opp mahesh sanskrutic bhavan/basil home
 Open ⋅ Closes 9 pm ",3
 Care Hospital Multispeciality,"('18.4645803', '73.8907375')",4.7(69),"Hospital · No. 17/2/1, A/5, Opp Sai Service, Parge (NIBM Link Rd Tilekar Nagar Road Tilekar Nagar
 Open 24 hours · 075587 79878",4.7,Hospital," No. 17/2/1, A/5, Opp Sai Service, Parge (NIBM Link Rd Tilekar Nagar Road Tilekar Nagar
@@ -320,10 +320,10 @@ Open ⋅ Closes 10 pm · 077096 41657",0,Hospital," 1, Undri - Hadapsar Rd
 Open ⋅ Closes 10 pm ",0
 Janhitarth Hospital,"('18.4659427', '73.9604759')",2.5(2),"Hospital · FX86+95H, Katraj Bypass Rd",2.5,Hospital," FX86+95H, Katraj Bypass Rd",2
 SHIVMANGAL MULTISPECIALITY HOSPITAL,"('18.4651064', '73.9611931')",1.0(1),"Hospital · Katraj Bypass Rd
-Open 24 hours",1.0,Hospital," Katraj Bypass Rd
+Open 24 hours",1,Hospital," Katraj Bypass Rd
 Open 24 hours",1
 Fursungi Old Zp Hospital,"('18.4718865', '73.9780119')",2.0(2),"Hospital · FXCH+Q62
-Open now",2.0,Hospital," FXCH+Q62
+Open now",2,Hospital," FXCH+Q62
 Open now",2
 Sanjeevani Hospital,"('18.461501', '73.7733398')",3.5(42),"Hospital · FQ6F+J84, NDA Rd
 Open ⋅ Closes 8 pm · 020 2529 0057",3.5,Hospital," FQ6F+J84, NDA Rd
@@ -341,10 +341,10 @@ Chaitanya Hospital,"('18.4779456', '73.7978537')",3.9(54),"Children's hospital �
 Open 24 hours",3.9,Children's hospital," NDA Rd
 Open 24 hours",54
 SWAMi SAMARTH clinic,"('18.4767001', '73.7981184')",5.0(5),"General hospital · FQGX+M6Q, NDA Rd, behind Supreme Bakery
-Open ⋅ Closes 1 pm ⋅ Reopens 6 pm · 080558 70688",5.0,General hospital," FQGX+M6Q, NDA Rd, behind Supreme Bakery
+Open ⋅ Closes 1 pm ⋅ Reopens 6 pm · 080558 70688",5,General hospital," FQGX+M6Q, NDA Rd, behind Supreme Bakery
 Open ⋅ Closes 1 pm ⋅ Reopens 6 pm ",5
 Shree Accident And Maternity Hospital,"('18.4768963', '73.797287')",3.0(2),"Hospital · FQGW+QW3
-Open 24 hours · 096235 81899",3.0,Hospital," FQGW+QW3
+Open 24 hours · 096235 81899",3,Hospital," FQGW+QW3
 Open 24 hours ",2
 Borikar Hospital,"('18.4802427', '73.8030304')",4.1(11),"Hospital · Near Federal Bank, Bridge, NDA Road,, Warje
 Open 24 hours · 075173 57514",4.1,Hospital," Near Federal Bank, Bridge, NDA Road,, Warje
@@ -364,7 +364,7 @@ Prachiti Hospital & Research Centre,"('18.4793091', '73.8247623')",3.7(3),"Hospi
 Sharad Hospital,"('18.4684268', '73.8188783')",4.5(357),"Hospital · Survey no 31 Infront of Fun time theater Near Canal Near Vadgaon (budurk) Phatha, Sinhgad Rd
 Open 24 hours · 078750 40086",4.5,Hospital," Survey no 31 Infront of Fun time theater Near Canal Near Vadgaon (budurk) Phatha, Sinhgad Rd
 Open 24 hours ",357
-Sanjeevani Clinic Dr.Poman Dipak,"('18.4706216', '73.8244941')",5.0(85),"Hospital · Survey no 31 Infront of Fun time theater Near Canal Near Vadgaon (budurk) Phatha, Sinhgad Rd",5.0,Hospital," Survey no 31 Infront of Fun time theater Near Canal Near Vadgaon (budurk) Phatha, Sinhgad Rd",85
+Sanjeevani Clinic Dr.Poman Dipak,"('18.4706216', '73.8244941')",5.0(85),"Hospital · Survey no 31 Infront of Fun time theater Near Canal Near Vadgaon (budurk) Phatha, Sinhgad Rd",5,Hospital," Survey no 31 Infront of Fun time theater Near Canal Near Vadgaon (budurk) Phatha, Sinhgad Rd",85
 Anant Enterprises,"('18.4981666', '73.8517334')",4.7(13),"Medical Book Store · 235/B-2, Paresh Apartments, Parvati, behind Bank Of Maharashtra
 Open ⋅ Closes 6:30 pm · 020 2442 3598",4.7,Medical Book Store," 235/B-2, Paresh Apartments, Parvati, behind Bank Of Maharashtra
 Open ⋅ Closes 6:30 pm ",13
@@ -381,7 +381,7 @@ Dermalile,"('18.4710818', '73.8634364')",0(0),"General hospital · Shop no 8, Pe
 Open ⋅ Closes 10 pm · 093595 73679",0,General hospital," Shop no 8, Petrol Pump Javal
 Open ⋅ Closes 10 pm ",0
 Dr Sayali Khinvsara,"('18.4775536', '73.8735905')",5.0(1),"General hospital · Shop Number 5, Ganga Collidium, 2, Gangadham - Shatrunjay Rd, opposite Ganga Dham Towers
-Open ⋅ Closes 10 pm · 094231 61353",5.0,General hospital," Shop Number 5, Ganga Collidium, 2, Gangadham - Shatrunjay Rd, opposite Ganga Dham Towers
+Open ⋅ Closes 10 pm · 094231 61353",5,General hospital," Shop Number 5, Ganga Collidium, 2, Gangadham - Shatrunjay Rd, opposite Ganga Dham Towers
 Open ⋅ Closes 10 pm ",1
 Shree Cliinic,"('18.4729544', '73.8640168')",0(0),"General hospital · Shop No 1
 Open ⋅ Closes 6 pm · 094235 33097",0,General hospital," Shop No 1
@@ -434,7 +434,7 @@ Open 24 hours · 088888 22222",3.6,General hospital," Neena Co-op. Housing Socie
 Open 24 hours ",434
 Ashiyan Hospital,"('18.5035678', '73.7535065')",0(0),Private hospital · GQ33+CCC,0,Private hospital, GQ33+CCC,0
 Varad Hospital,"('18.500899', '73.755738')",4.0(2),"Hospital · 269/4, Varad Laxmi Nivas, Bhugoan Mulshi, Paud Rd
-Open ⋅ Closes 11 pm",4.0,Hospital," 269/4, Varad Laxmi Nivas, Bhugoan Mulshi, Paud Rd
+Open ⋅ Closes 11 pm",4,Hospital," 269/4, Varad Laxmi Nivas, Bhugoan Mulshi, Paud Rd
 Open ⋅ Closes 11 pm",2
 Borse Nursing Home,"('18.5088117', '73.7904164')",0(0),"General hospital · Shop No 1, Microsys House, Paud Rd
 Open ⋅ Closes 11 pm · 089280 00300",0,General hospital," Shop No 1, Microsys House, Paud Rd
@@ -443,7 +443,7 @@ PMC NEW HOSPITAL WARJE,"('18.4834939', '73.7926235')",3.9(9),"Hospital · 18°29
 Open now",3.9,Hospital," 18°29'00. 73°47'32., 9""N, Hinjewadi Phase 2 Rd
 Open now",9
 Ahinsa Clinic,"('18.4867618', '73.7919025')",5.0(1),"Hospital · FQPR+PQ2, Ahinsa Clinic, Warje Malwadi, Warje, Warje
-020 2523 7166",5.0,Hospital," FQPR+PQ2, Ahinsa Clinic, Warje Malwadi, Warje, Warje
+020 2523 7166",5,Hospital," FQPR+PQ2, Ahinsa Clinic, Warje Malwadi, Warje, Warje
 020 2523 7166",1
 Kulkarni hospital and diagnostic centre,"('18.4846733', '73.8094545')",4.1(38),"General hospital · 125/B ,Tirupati Nagar road, Dr Ambedkar Chowk, near Universal office
 Open 24 hours · 020 2523 0019",4.1,General hospital," 125/B ,Tirupati Nagar road, Dr Ambedkar Chowk, near Universal office
@@ -455,7 +455,7 @@ Sai Hospital,"('18.4806393', '73.804916')",4.6(12),"Hospital · Akshay Palace, N
 Open now · 020 2523 3000",4.6,Hospital," Akshay Palace, Near, Warje Brg
 Open now ",12
 SAMARTH HOSPITAL,"('18.4852251', '73.8012369')",5.0(20),"Private hospital · S. No. 133, H. No. 3994, near Kaveri Hotel Lane
-Open 24 hours · 086375 97077",5.0,Private hospital," S. No. 133, H. No. 3994, near Kaveri Hotel Lane
+Open 24 hours · 086375 97077",5,Private hospital," S. No. 133, H. No. 3994, near Kaveri Hotel Lane
 Open 24 hours ",20
 Shraddha Hospital,"('18.4898422', '73.8191156')",0(0),"Hospital · Shraddha Hospital, 41/24, Karvenagar Co-operative Housing Society, Nav Sahyadri Chowk, Karve Nagar, near Alankar Police Chowky
 Open now",0,Hospital," Shraddha Hospital, 41/24, Karvenagar Co-operative Housing Society, Nav Sahyadri Chowk, Karve Nagar, near Alankar Police Chowky
@@ -466,16 +466,16 @@ Dr. Kadam,"('18.4902961', '73.8211866')",3.8(5),"General hospital · 411052
 Open ⋅ Closes 11 pm",3.8,General hospital," 411052
 Open ⋅ Closes 11 pm",5
 Borikar Multi Speciality Hospital,"('18.4828963', '73.8088934')",5.0(1),"Hospital · 58, NDA Rd
-Open now",5.0,Hospital," 58, NDA Rd
+Open now",5,Hospital," 58, NDA Rd
 Open now",1
 Shraddha Hospital,"('18.4909427', '73.8459266')",4.1(21),"General hospital · 41, Tulshibagwale Colony Road, Lakhshmi Nagar, Sahakar Nagar 2, Parvati Paytha
 Open 24 hours",4.1,General hospital," 41, Tulshibagwale Colony Road, Lakhshmi Nagar, Sahakar Nagar 2, Parvati Paytha
 Open 24 hours",21
 Poona Hospital And Research Centre,"('18.5107446', '73.842031')",3.0(487),"General hospital · 27, near Alka Talkies
-Open 24 hours · 020 6609 6000",3.0,General hospital," 27, near Alka Talkies
+Open 24 hours · 020 6609 6000",3,General hospital," 27, near Alka Talkies
 Open 24 hours ",487
 वसुंधरा मल्टीस्पेशालिटी हॉस्पिटल,"('18.4930694', '73.8498767')",5.0(18),"Hospital · Commercial Complex, Laxmi Nagar Commercial Complex, 1st Floor, Shree Gajanan maharaj Chowk, Shahu College Road, Sahakarnagar,
-Open now · 089754 29112",5.0,Hospital," Commercial Complex, Laxmi Nagar Commercial Complex, 1st Floor, Shree Gajanan maharaj Chowk, Shahu College Road, Sahakarnagar,
+Open now · 089754 29112",5,Hospital," Commercial Complex, Laxmi Nagar Commercial Complex, 1st Floor, Shree Gajanan maharaj Chowk, Shahu College Road, Sahakarnagar,
 Open now ",18
 Global Hospital & Research Institute,"('18.5013183', '73.8410225')",4.3(393),"General hospital · 577/2, Dattawadi Rd, off Sinhgad Road, near Dattawadi
 Open 24 hours · 020 2452 2452",4.3,General hospital," 577/2, Dattawadi Rd, off Sinhgad Road, near Dattawadi
@@ -484,10 +484,10 @@ Ranka Hospital,"('18.4949949', '73.8617867')",4.3(388),"General hospital · 157 
 Open 24 hours · 020 2426 1600",4.3,General hospital," 157 / 5, SS Dhage Rd, near Swargate
 Open 24 hours ",388
 Deenanath Mangeshkar Hospital and Research Center,"('18.5020467', '73.8322305')","4.0(2,059)","General hospital · Deenanath Mangeshkar Hospital Road, near Mhatre Bridge
-Open 24 hours · 020 4915 3000",4.0,General hospital," Deenanath Mangeshkar Hospital Road, near Mhatre Bridge
-Open 24 hours ","2,059"
+Open 24 hours · 020 4915 3000",4,General hospital," Deenanath Mangeshkar Hospital Road, near Mhatre Bridge
+Open 24 hours ",2059
 Global Hospital- Laparoscopy hospital in Pune,"('18.4938725', '73.8329745')",5.0(2),"Hospital · OPD 6, 577/2, off Sinhgad Road, Police Chaoki Road, near Dattawadi
-Open ⋅ Closes 8 pm · 020 2542 2542",5.0,Hospital," OPD 6, 577/2, off Sinhgad Road, Police Chaoki Road, near Dattawadi
+Open ⋅ Closes 8 pm · 020 2542 2542",5,Hospital," OPD 6, 577/2, off Sinhgad Road, Police Chaoki Road, near Dattawadi
 Open ⋅ Closes 8 pm ",2
 Mahajan Multispeciality Hospital,"('18.4839676', '73.8569596')",3.9(22),"General hospital · Plot No.1,Maharashtra Co.Op.Hsg.Society, Satara Road, Walvekar Nagar, Parvati Darshan
 Open 24 hours · 020 2422 2193",3.9,General hospital," Plot No.1,Maharashtra Co.Op.Hsg.Society, Satara Road, Walvekar Nagar, Parvati Darshan
@@ -503,7 +503,7 @@ Siddharth Hospital,"('18.4901078', '73.8683781')",3.6(20),"Hospital · E-10/11, 
 Open now · 076200 21134",3.6,Hospital," E-10/11, Siddharth Hospital
 Open now ",20
 Yashshree Hospital,"('18.4816332', '73.8753077')",3.0(4),"Hospital · 1st Floor, Sarita chambers,Above OBC bank, Bibwewadi Kondhwa Road, Chowk
-Open 24 hours · 020 2426 9958",3.0,Hospital," 1st Floor, Sarita chambers,Above OBC bank, Bibwewadi Kondhwa Road, Chowk
+Open 24 hours · 020 2426 9958",3,Hospital," 1st Floor, Sarita chambers,Above OBC bank, Bibwewadi Kondhwa Road, Chowk
 Open 24 hours ",4
 Suraj Hospital - Best Multispeciality Hospital in Pune | Gynecology/Orthopedic/Spine,"('18.4810936', '73.8725346')",4.2(38),"Hospital · Bibwewadi Kondhwa Rd
 Open 24 hours · 091759 83868",4.2,Hospital," Bibwewadi Kondhwa Rd
@@ -516,13 +516,13 @@ Open 24 hours · 084848 49971",4.1,Hospital," Opposite Fakhri Hills Lullanagar, 
 Open 24 hours ",128
 liprisy hospital,"('18.4850099', '73.8895988')",0(0),"Hospital · FVPQ+2R5, Bibwewadi Kondhwa Rd",0,Hospital," FVPQ+2R5, Bibwewadi Kondhwa Rd",0
 Om Hospital in pune,"('18.4746293', '73.8845024')",4.0(14),"Hospital · FVFM+VR2, Lane No. 6
-Open ⋅ Closes 2 pm ⋅ Reopens 5:30 pm",4.0,Hospital," FVFM+VR2, Lane No. 6
+Open ⋅ Closes 2 pm ⋅ Reopens 5:30 pm",4,Hospital," FVFM+VR2, Lane No. 6
 Open ⋅ Closes 2 pm ⋅ Reopens 5:30 pm",14
 Dr. Baba Saheb Ambedkar Hospital,"('18.496224', '73.8702245')",4.1(11),"General hospital · FVWC+F3Q
 Open ⋅ Closes 5 pm",4.1,General hospital," FVWC+F3Q
 Open ⋅ Closes 5 pm",11
 HOSPITAL SRPF2,"('18.4918906', '73.9062809')",5.0(2),"Hospital · SRPF Stadium Rd
-Open now",5.0,Hospital," SRPF Stadium Rd
+Open now",5,Hospital," SRPF Stadium Rd
 Open now",2
 Vishram Point,"('18.4928983', '73.90312')",0(0),"General hospital · Shop No 2
 Open ⋅ Closes 9 pm · 098904 45093",0,General hospital," Shop No 2
@@ -562,7 +562,7 @@ Open ⋅ Closes 9 pm · 088888 42195",0,General hospital," Shop No 1
 Open ⋅ Closes 9 pm ",0
 OM HOSPITAL,"('18.4833136', '73.953001')","4.9(2,500)","Hospital · Rd Number 9, Near S.K. Traders Jakat Naka
 Open 24 hours · 099227 27578",4.9,Hospital," Rd Number 9, Near S.K. Traders Jakat Naka
-Open 24 hours ","2,500"
+Open 24 hours ",2500
 Shende Hospital,"('18.4817094', '73.950472')",4.3(4),"Hospital · FXJ2+M5Q, Unnamed Road
 098223 55160",4.3,Hospital," FXJ2+M5Q, Unnamed Road
 098223 55160",4
@@ -580,13 +580,13 @@ Yog Multispeciality hospital and research centre,"('18.497937', '73.967789')",4.
 Open 24 hours",4.2,Hospital," Survey no.85, Yog Multispeciality hospital and research centre, 1/2, Manjri Greens Road
 Open 24 hours",232
 Prime Multispeciality Hospital,"('18.553501', '73.753809')",4.0(24),"General hospital · Bus Stop, Shakuntal Chembers, near Sus
-Open 24 hours · 084120 01166",4.0,General hospital," Bus Stop, Shakuntal Chembers, near Sus
+Open 24 hours · 084120 01166",4,General hospital," Bus Stop, Shakuntal Chembers, near Sus
 Open 24 hours ",24
 Asian Speciality Hospital,"('18.4999511', '73.7538161')",4.3(55),"Hospital · Paud Rd
 Open 24 hours · 073852 46222",4.3,Hospital," Paud Rd
 Open 24 hours ",55
 Patil Hospital,"('18.5010454', '73.7443805')",5.0(12),"Hospital · Paud Rd
-Open 24 hours · 082376 00600",5.0,Hospital," Paud Rd
+Open 24 hours · 082376 00600",5,Hospital," Paud Rd
 Open 24 hours ",12
 Life line multispeciality hospital bhugaon,"('18.5008515', '73.7510493')",4.6(19),"Hospital · Paud Rd
 Open 24 hours · 091566 45700",4.6,Hospital," Paud Rd
@@ -601,10 +601,10 @@ Open 24 hours · 020 3962 3962","3.7
 ",General hospital," Plot No, 121, Lane No. 4
 Open 24 hours ",189
 Shashwat Hospital Kothrud,"('18.4947751', '73.8135445')",3.0(192),"General hospital · 22, Warje Malwadi Rd
-Open 24 hours · 020 2530 9900",3.0,General hospital," 22, Warje Malwadi Rd
+Open 24 hours · 020 2530 9900",3,General hospital," 22, Warje Malwadi Rd
 Open 24 hours ",192
 HINGANE Pmc Hospital,"('18.4882053', '73.8148301')",3.0(9),"Hospital · FRQ7+7WP
-Open ⋅ Closes 1 am",3.0,Hospital," FRQ7+7WP
+Open ⋅ Closes 1 am",3,Hospital," FRQ7+7WP
 Open ⋅ Closes 1 am",9
 Lokmanya Hospital,"('18.4984047', '73.8137854')",0(0),"Hospital · No 4, Karve Rd",0,Hospital," No 4, Karve Rd",0
 Subudh hospital and research center,"('18.5035096', '73.8137705')",3.7(40),"Hospital · Sr 145, DP Rd, near Shivaji Maharaj Statue, opp. UCO Bank
@@ -617,12 +617,12 @@ Deenanath Mangeshkar Hospital,"('18.4989493', '73.8310847')",3.9(58),"General ho
 Open now",3.9,General hospital," FRXJ+HCG, DP Rd
 Open now",58
 Pandith Sir Hospithal,"('18.5020512', '73.8321788')",0(0),"Hospital · GR2J+RVF, Unnamed Road",0,Hospital," GR2J+RVF, Unnamed Road",0
-Doctor Hospital,"('18.5011876', '73.8429371')",1.0(1),Hospital · 69,1.0,Hospital, 69,1
+Doctor Hospital,"('18.5011876', '73.8429371')",1.0(1),Hospital · 69,1,Hospital,69,1
 Vatsalya Hospital,"('18.4991388', '73.8432197')",3.2(16),"Hospital · FRXV+M75, Panmala, Sinhgad Road, in front of Cosmos Bank
 Open now · 098220 13438",3.2,Hospital," FRXV+M75, Panmala, Sinhgad Road, in front of Cosmos Bank
 Open now ",16
 Joshi Hospital,"('18.4964031', '73.8587384')",5.0(4),"Maternity Centre · FVW5+HF9, Gultekdi
-Open now",5.0,Maternity Centre," FVW5+HF9, Gultekdi
+Open now",5,Maternity Centre," FVW5+HF9, Gultekdi
 Open now",4
 Shahade Hospital,"('18.4979037', '73.853883')",3.8(20),"Hospital · 494/13, Mitra Mandal Chowk
 Open now · 020 2442 4036",3.8,Hospital," 494/13, Mitra Mandal Chowk
@@ -630,32 +630,32 @@ Open now ",20
 Kering Hospital,"('18.5031052', '73.868198')",3.7(43),"General hospital · 289/2, Timber Market Rd
 Closes soon ⋅ 11:30 am ⋅ Reopens 5 pm · 020 2645 6765",3.7,General hospital," 289/2, Timber Market Rd
 Closes soon ⋅ 11:30 am ⋅ Reopens 5 pm ",43
-Dhanvantri Hospital,"('18.5034893', '73.8665627')",5.0(1),Hospital · GV38+9JW,5.0,Hospital, GV38+9JW,1
+Dhanvantri Hospital,"('18.5034893', '73.8665627')",5.0(1),Hospital · GV38+9JW,5,Hospital, GV38+9JW,1
 Mehta Hospital,"('18.4986881', '73.8700161')",5.0(2),"Hospital · 392, Jawaharlal Nehru Rd
-Open now",5.0,Hospital," 392, Jawaharlal Nehru Rd
+Open now",5,Hospital," 392, Jawaharlal Nehru Rd
 Open now",2
 HOSPITAL GAYAKWAD,"('18.4963564', '73.8979151')",0(0),"Hospital · FVWX+G5V, Unnamed Road",0,Hospital," FVWX+G5V, Unnamed Road",0
 Ranka Hospital,"('18.5078264', '73.8759826')",3.7(3),"General hospital · Dinshaw Apartments, Swayam Clinic & Nursing Home 742/ A, 742, Mahatma Phule Rasta
 Open 24 hours · 020 2635 5284",3.7,General hospital," Dinshaw Apartments, Swayam Clinic & Nursing Home 742/ A, 742, Mahatma Phule Rasta
 Open 24 hours ",3
 Obstetrics and Gynaecology Department,"('18.5042339', '73.8910604')",5.0(2),"Hospital · GV3R+MCV, Wanawadi Rd
-Open now",5.0,Hospital," GV3R+MCV, Wanawadi Rd
+Open now",5,Hospital," GV3R+MCV, Wanawadi Rd
 Open now",2
 Shivarkar Hospital's Quarters,"('18.4973248', '73.8996186')",4.0(1),"Hospital · 14, 14
-Open now",4.0,Hospital," 14, 14
+Open now",4,Hospital," 14, 14
 Open now",1
 Kamal Nursing & Maternity Hospital,"('18.4920163', '73.9002105')",4.0(4),"Maternity Centre · Balaji Shelters, 47/3, Wanowri
-Open 24 hours",4.0,Maternity Centre," Balaji Shelters, 47/3, Wanowri
+Open 24 hours",4,Maternity Centre," Balaji Shelters, 47/3, Wanowri
 Open 24 hours",4
 ARCUS HOSPITAL,"('18.4883101', '73.8992013')",0(0),"Hospital · Green Valley Society, near Kedari Petrol Pump
 Closed ⋅ Opens 6 pm · 020 2685 5885",0,Hospital," Green Valley Society, near Kedari Petrol Pump
 Closed ⋅ Opens 6 pm ",0
 Villoo Poonawalla Memorial Hospital,"('18.5034764', '73.9290968')",4.0(323),"General hospital · S.No.156, Plot No.1/3A+3B/1+2, 3, Pune - Solapur Rd, near Savli Corner
-Open 24 hours · 020 6745 2222",4.0,General hospital," S.No.156, Plot No.1/3A+3B/1+2, 3, Pune - Solapur Rd, near Savli Corner
+Open 24 hours · 020 6745 2222",4,General hospital," S.No.156, Plot No.1/3A+3B/1+2, 3, Pune - Solapur Rd, near Savli Corner
 Open 24 hours ",323
 Hospital in Pune,"('18.5019162', '73.9313394')",0(0),"Hospital · Gandhi Hospital, Aryan Centre,2nd Floor,Hadapsar,Pune, above Axis Bank Branch",0,Hospital," Gandhi Hospital, Aryan Centre,2nd Floor,Hadapsar,Pune, above Axis Bank Branch",0
 Sahyog Hospital,"('18.5030542', '73.9246894')",1.0(1),"Hospital · Vithalnagar, Sr No 15, Hadapsar, Solapur Road, Hadapsar
-020 2699 2516",1.0,Hospital," Vithalnagar, Sr No 15, Hadapsar, Solapur Road, Hadapsar
+020 2699 2516",1,Hospital," Vithalnagar, Sr No 15, Hadapsar, Solapur Road, Hadapsar
 020 2699 2516",1
 Shraddha Hospital,"('18.501856', '73.9315176')",4.7(15),"Hospital · 1st Floor L P Classic, Solapur Rd
 Open 24 hours · 020 2682 3070",4.7,Hospital," 1st Floor L P Classic, Solapur Rd
@@ -697,7 +697,7 @@ Siddhivinayak Woman Hospital,"('18.5161192', '73.9749151')",0(0),"General hospit
 Open ⋅ Closes 6 pm · 073507 49942",0,General hospital," Shop No 1
 Open ⋅ Closes 6 pm ",0
 Navjeevan Hospital (Dr. Tushar Deshmukh),"('18.5106285', '73.9630505')",5.0(7),"Hospital · GX67+763, Manjri Rd
-Open now",5.0,Hospital," GX67+763, Manjri Rd
+Open now",5,Hospital," GX67+763, Manjri Rd
 Open now",7
 Bavdhan Medicare Centre,"('18.5154329', '73.7809868')",4.1(10),"General hospital · Plot No:9, Sagar Society, Opp to Bank Of Maharastra, Vidnyan Nagar Rd
 Open now · 098220 62263",4.1,General hospital," Plot No:9, Sagar Society, Opp to Bank Of Maharastra, Vidnyan Nagar Rd
@@ -716,7 +716,7 @@ Physiotherapy clinic at Om Hospital Bavdhan,"('18.5164755', '73.7817904')",3.1(3
 Open ⋅ Closes 1 pm · 020 2295 3279",3.1,Hospital," Plot No. 21, Dr. Homi Bhabha Rd, Next To Dominos Pizza
 Open ⋅ Closes 1 pm ",35
 Kothrud General & Accident Hospital,"('18.5082597', '73.8093763')",4.0(4),"Hospital · Paud Rd, opposite Kachara Depo
-Open 24 hours",4.0,Hospital," Paud Rd, opposite Kachara Depo
+Open 24 hours",4,Hospital," Paud Rd, opposite Kachara Depo
 Open 24 hours",4
 Suyash Hospital,"('18.5042757', '73.8038626')",4.2(17),"Hospital · c/9 kailash soc,sangam chowk shashtringr
 Open 24 hours · 020 2538 1849",4.2,Hospital," c/9 kailash soc,sangam chowk shashtringr
@@ -738,14 +738,14 @@ Open 24 hours · 088888 22222",4.3,Hospital," 30C, Karve Rd
 Open 24 hours ",12
 "Sahyadri Super Speciality Hospital, Deccan Gymkhana, Pune","('18.513111', '73.8392905')","4.6(5,953)","General hospital · Plot No. 30-C, Erandvane, Karve Rd
 Open 24 hours · 088888 22222",4.6,General hospital," Plot No. 30-C, Erandvane, Karve Rd
-Open 24 hours ","5,953"
+Open 24 hours ",5953
 Apex hospital,"('18.5075985', '73.8440031')",3.4(20),"General hospital · 720/8, Lal Bahadur Shastri Rd
 Open now · 098230 97406",3.4,General hospital," 720/8, Lal Bahadur Shastri Rd
 Open now ",20
 Paranjape Hospital,"('18.5119944', '73.8457897')",3.5(4),"Hospital · GR6W+Q8V, Chhatrapati Sambhaji Maharaj Rd
 Open now",3.5,Hospital," GR6W+Q8V, Chhatrapati Sambhaji Maharaj Rd
 Open now",4
-Pune sarkaari hospital,"('18.5152871', '73.8466286')",5.0(1),"Hospital · 534B, Lokhande Talim Rd",5.0,Hospital," 534B, Lokhande Talim Rd",1
+Pune sarkaari hospital,"('18.5152871', '73.8466286')",5.0(1),"Hospital · 534B, Lokhande Talim Rd",5,Hospital," 534B, Lokhande Talim Rd",1
 Hospital,"('18.5132582', '73.8384732')",0(0),"Hospital · GR7Q+7CR, 33/42, Makrand Bhave Rd",0,Hospital," GR7Q+7CR, 33/42, Makrand Bhave Rd",0
 Umarji Hospital Shukrawar Peth,"('18.5119126', '73.8577037')",4.2(19),"General hospital · 351, Ankita Chamber, Chhatrapati Shivaji Maharaj Rd, opposite Dr Kotnis Clinic
 Open 24 hours · 020 2443 6558",4.2,General hospital," 351, Ankita Chamber, Chhatrapati Shivaji Maharaj Rd, opposite Dr Kotnis Clinic
@@ -755,7 +755,7 @@ Yogesh Hospital,"('18.5103783', '73.847871')",4.1(69),"Hospital · 1188, Limayew
 Open 24 hours · 020 2447 8740",4.1,Hospital," 1188, Limayewadi Rd
 Open 24 hours ",69
 Sanjivani Hospital,"('18.5129149', '73.8539392')",2.0(1),"Hospital · 1445, Bajirao Rd
-Open now",2.0,Hospital," 1445, Bajirao Rd
+Open now",2,Hospital," 1445, Bajirao Rd
 Open now",1
 Bhave Hospital,"('18.5038133', '73.8522231')",4.8(6),"Hospital · GV32+GVH, Surgical Nursing Home, Rajhans Complex, opposite Sanas Sports Ground
 Open now · 020 2432 4059",4.8,Hospital," GV32+GVH, Surgical Nursing Home, Rajhans Complex, opposite Sanas Sports Ground
@@ -767,13 +767,13 @@ Chavan Hospital,"('18.507535', '73.878485')",0(0),"Private hospital · Yashganga
 020 2443 6292",0,Private hospital," Yashganga Construction, Sr. No. 52
 020 2443 6292",0
 Matruseva Hospital,"('18.516329', '73.8719416')",4.0(1),"General hospital · Shop No 5, New Rasta Peth, near Quarter Gate Chowk
-Open ⋅ Closes 10 pm · 093708 21726",4.0,General hospital," Shop No 5, New Rasta Peth, near Quarter Gate Chowk
+Open ⋅ Closes 10 pm · 093708 21726",4,General hospital," Shop No 5, New Rasta Peth, near Quarter Gate Chowk
 Open ⋅ Closes 10 pm ",1
 Yashda Hospital,"('18.516796', '73.8595484')",4.1(18),"General hospital · 420, Moti Chowk, Raviwar Peth
 Open ⋅ Closes 1 pm ⋅ Reopens 3 pm · 020 2445 8041",4.1,General hospital," 420, Moti Chowk, Raviwar Peth
 Open ⋅ Closes 1 pm ⋅ Reopens 3 pm ",18
 "Alliance Munot Hospital, bhavani peth pune","('18.5056095', '73.8648202')",4.0(2),"Hospital · 411042
-Open now",4.0,Hospital," 411042
+Open now",4,Hospital," 411042
 Open now",2
 Pulse Medicare,"('18.5119734', '73.8620111')",4.2(5),"General hospital · Shop No 2, Rabibar Peth, Mominpura Road
 Closed ⋅ Opens 6 pm · 096654 92677",4.2,General hospital," Shop No 2, Rabibar Peth, Mominpura Road
@@ -784,7 +784,7 @@ Open ⋅ Closes 11:30 pm ",35
 HM FONDATION,"('18.5082736', '73.878692')",0(0),"General hospital · 2nd Floor, Chowdhary Plaza, 185, MG Road, above Pardeshi Travels
 098505 81450",0,General hospital," 2nd Floor, Chowdhary Plaza, 185, MG Road, above Pardeshi Travels
 098505 81450",0
-Maharashtra Hospital,"('18.506764', '73.8785244')",5.0(1),Hospital · None,5.0,Hospital, None,1
+Maharashtra Hospital,"('18.506764', '73.8785244')",5.0(1),Hospital · None,5,Hospital, None,1
 Rahel Hospital,"('18.5165592', '73.8739739')",4.4(5),"Hospital · GV8F+JHH, Bootee St
 Open now · 020 2611 1423",4.4,Hospital," GV8F+JHH, Bootee St
 Open now ",5
@@ -793,20 +793,20 @@ Dr. Mulay Super Speciality Hospital,"('18.5088449', '73.9071251')",4.8(4),"Gener
 Open ⋅ Closes 11 pm · 082080 68750",4.8,General hospital," Shop No 1
 Open ⋅ Closes 11 pm ",4
 Nectar Hospital,"('18.5067532', '73.9009041')",5.0(1),"Hospital · Himalaya House Building, Main Signal Chowk, near Laxmi Medical Store
-070581 07107",5.0,Hospital," Himalaya House Building, Main Signal Chowk, near Laxmi Medical Store
+070581 07107",5,Hospital," Himalaya House Building, Main Signal Chowk, near Laxmi Medical Store
 070581 07107",1
 Chaitanya General Hospital,"('18.5200352', '73.9067405')",0(0),"General hospital · GWC4+2M9, Ghoir Colony, Near Ram Krishna More Sabha Gruha
 099225 53333",0,General hospital," GWC4+2M9, Ghoir Colony, Near Ram Krishna More Sabha Gruha
 099225 53333",0
 Jehangir Hospital,"('18.5303448', '73.8767266')","4.6(6,638)","General hospital · 32, Sasoon Rd, Opposite Railway Station
 Open 24 hours · 020 6681 9999",4.6,General hospital," 32, Sasoon Rd, Opposite Railway Station
-Open 24 hours ","6,638"
+Open 24 hours ",6638
 Noble Hospitals & Research Centre,"('18.5049019', '73.9272596')","4.5(4,542)","Hospital · 153, Magarpatta Rd
 Open 24 hours · 080070 06611",4.5,Hospital," 153, Magarpatta Rd
-Open 24 hours ","4,542"
+Open 24 hours ",4542
 Sahyadri Super Speciality Hospital,"('18.5031093', '73.9321641')","4.7(5,865)","Hospital · S. No, Sahyadri Super Specialty Hospital, Sahyadri Super Speciality Hospital Hadapsar
 Open 24 hours · 088888 22222",4.7,Hospital," S. No, Sahyadri Super Specialty Hospital, Sahyadri Super Speciality Hospital Hadapsar
-Open 24 hours ","5,865"
+Open 24 hours ",5865
 Redemi Hospital,"('18.5053012', '73.9389213')",0(0),"General hospital · Shop No 05, Gadital Pmt, Bus Stop
 Open ⋅ Closes 9 pm · 098347 78484",0,General hospital," Shop No 05, Gadital Pmt, Bus Stop
 Open ⋅ Closes 9 pm ",0
@@ -827,20 +827,20 @@ Vaibhavi Hospital,"('18.4994553', '73.946894')",2.7(68),"Hospital · Chintamani 
 Open ⋅ Closes 11 pm · 020 2699 5993",2.7,Hospital," Chintamani Plaza, Solapur - Pune Hwy, opp. Akashwani Kendra
 Open ⋅ Closes 11 pm ",68
 New Sanjeevani Hospital,"('18.5057846', '73.9646511')",5.0(2),"Hospital · Sr. No. 90, Shri Datta Park, Kumbharkar Vasti, Deepak Nagar, near Orchid International School
-Open ⋅ Closes 5 pm · 089998 90490",5.0,Hospital," Sr. No. 90, Shri Datta Park, Kumbharkar Vasti, Deepak Nagar, near Orchid International School
+Open ⋅ Closes 5 pm · 089998 90490",5,Hospital," Sr. No. 90, Shri Datta Park, Kumbharkar Vasti, Deepak Nagar, near Orchid International School
 Open ⋅ Closes 5 pm ",2
 Apollo Manjari Multispecilty Hospital,"('18.5126314', '73.969562')",4.7(15),"Hospital · S.No.103/3,Near railway gate, Manjari Bk Hadapsar Manjari railway station
 Open 24 hours",4.7,Hospital," S.No.103/3,Near railway gate, Manjari Bk Hadapsar Manjari railway station
 Open 24 hours",15
 Comfort Clinic,"('18.5057821', '73.9646672')",0(0),"Hospital · Kumbharkar Wasti Road Survey No 97A, Gopalpatti, Manjari Bk, Hadapsar, Tal Haveli",0,Hospital," Kumbharkar Wasti Road Survey No 97A, Gopalpatti, Manjari Bk, Hadapsar, Tal Haveli",0
 Agasti Hospital,"('18.5086097', '73.95877')",1.0(1),"Hospital · GX55+CGR, Manjri Rd
-Open ⋅ Closes 9 pm · 097626 00785",1.0,Hospital," GX55+CGR, Manjri Rd
+Open ⋅ Closes 9 pm · 097626 00785",1,Hospital," GX55+CGR, Manjri Rd
 Open ⋅ Closes 9 pm ",1
 Shreeram multispecialty hospital,"('18.5091438', '73.9592398')",5.0(5),"Hospital · GX55+MM5, Ghule Vasti
-074474 29521",5.0,Hospital," GX55+MM5, Ghule Vasti
+074474 29521",5,Hospital," GX55+MM5, Ghule Vasti
 074474 29521",5
 Vighnaharta Hospital,"('18.5195348', '73.9777359')",3.0(2),"Private hospital · GX9H+R39, Manjri
-Open now",3.0,Private hospital," GX9H+R39, Manjri
+Open now",3,Private hospital," GX9H+R39, Manjri
 Open now",2
 Jijao Hospital,"('18.5260866', '73.9654082')",0(0),"General hospital · Shop No 1, Manjari Rd
 Open ⋅ Closes 6 pm · 099601 56848",0,General hospital," Shop No 1, Manjari Rd
@@ -850,7 +850,7 @@ Open ⋅ Closes 10:30 pm · 075889 69090",4.9,Hospital," Sr No-140/1/A, Ghule 
 Open ⋅ Closes 10:30 pm ",38
 Symbiosis University Hospital & Research Centre,"('18.5389621', '73.7274178')","4.6(1,090)","Hospital · Dnyan Marg, Mulshi Rd
 Open 24 hours · 020 6193 0000",4.6,Hospital," Dnyan Marg, Mulshi Rd
-Open 24 hours ","1,090"
+Open 24 hours ",1090
 "Symbiosis, Lavale","('18.5390733', '73.7267586')",4.3(28),"Hospital · Lavale
 Open now",4.3,Hospital," Lavale
 Open now",28
@@ -858,10 +858,10 @@ Sus Hospital Pune,"('18.5545419', '73.749703')",4.6(177),"Hospital · Thaksen va
 Open 24 hours · 083083 01793",4.6,Hospital," Thaksen vasti Chande - Nande, Road
 Open 24 hours ",177
 Chellaram Hospital - Diabetes Care & Multispeciality,"('18.5195687', '73.7700009')",4.0(348),"Hospital · Building No 4, Lalani Quantum, AH47
-Open 24 hours · 020 6683 9777",4.0,Hospital," Building No 4, Lalani Quantum, AH47
+Open 24 hours · 020 6683 9777",4,Hospital," Building No 4, Lalani Quantum, AH47
 Open 24 hours ",348
 Yash Clinic,"('18.5201035', '73.7738638')",4.0(1),"Hospital · GQCF+2GX, DSK Raanwaara Rd
-Open now · 086004 08510",4.0,Hospital," GQCF+2GX, DSK Raanwaara Rd
+Open now · 086004 08510",4,Hospital," GQCF+2GX, DSK Raanwaara Rd
 Open now ",1
 Suyash Hospital,"('18.5165611', '73.8036308')",0(0),"Hospital · Bus stand, Shripati Sutar Path, near Shivaji Statue, behind Kothrud
 080 4812 8041",0,Hospital," Bus stand, Shripati Sutar Path, near Shivaji Statue, behind Kothrud
@@ -869,7 +869,7 @@ Suyash Hospital,"('18.5165611', '73.8036308')",0(0),"Hospital · Bus stand, Shri
 Shree surgical and general Hospital Kothrud,"('18.5190179', '73.8087834')",0(0),"Hospital · Lane no.9,shivsai colony,water tank road, Silver Crest Hill Town Rd
 Closed ⋅ Opens 6 pm",0,Hospital," Lane no.9,shivsai colony,water tank road, Silver Crest Hill Town Rd
 Closed ⋅ Opens 6 pm",0
-Orchids Hospital,"('18.5281987', '73.8296907')",5.0(1),"Hospital · 968 P-1-11, Senapati Bapat Rd",5.0,Hospital," 968 P-1-11, Senapati Bapat Rd",1
+Orchids Hospital,"('18.5281987', '73.8296907')",5.0(1),"Hospital · 968 P-1-11, Senapati Bapat Rd",5,Hospital," 968 P-1-11, Senapati Bapat Rd",1
 Shifa Clinic,"('18.5289843', '73.8299107')",0(0),"General hospital · Kusalkar Putala, Chouk
 Open ⋅ Closes 6 pm · 090966 38449",0,General hospital," Kusalkar Putala, Chouk
 Open ⋅ Closes 6 pm ",0
@@ -897,8 +897,8 @@ Open 24 hours ",37
 Samarth Hospital,"('18.5195188', '73.8621121')",4.1(13),"General hospital · Survey No. 1486, Ganesh Road, Near Daruwala Bridge
 Open now · 020 2606 4547",4.1,General hospital," Survey No. 1486, Ganesh Road, Near Daruwala Bridge
 Open now ",13
-sadar hosptial,"('18.5204303', '73.8567437')",5.0(1),"Hospital · 204, Mote Mangal Karyalay Rd",5.0,Hospital," 204, Mote Mangal Karyalay Rd",1
-Vijaymata Hospital,"('18.5193161', '73.8571321')",2.0(1),"Hospital · GV94+PVC, Ramganesh Gadkari Path",2.0,Hospital," GV94+PVC, Ramganesh Gadkari Path",1
+sadar hosptial,"('18.5204303', '73.8567437')",5.0(1),"Hospital · 204, Mote Mangal Karyalay Rd",5,Hospital," 204, Mote Mangal Karyalay Rd",1
+Vijaymata Hospital,"('18.5193161', '73.8571321')",2.0(1),"Hospital · GV94+PVC, Ramganesh Gadkari Path",2,Hospital," GV94+PVC, Ramganesh Gadkari Path",1
 KEM Hospital,"('18.5199723', '73.8669765')",3.7(906),"General hospital · 489, Mudaliar Rd
 Open 24 hours · 020 6603 7300",3.7,General hospital," 489, Mudaliar Rd
 Open 24 hours ",906
@@ -906,10 +906,10 @@ Kamla Nehru Hospital,"('18.5229322', '73.8620059')",4.1(314),"General hospital �
 Open 24 hours · 020 2550 8500",4.1,General hospital," Mangalwar Peth Rd, near Kasba Post Office
 Open 24 hours ",314
 "Blood Centre SASSOON GENERAL HOSPITALS, PUNE","('18.5252302', '73.8705192!16zL20vMDh3dGNk!19sChIJ_btzKhrBwjsRKBXOvpY7RFs?authuser=0&hl=en&rclk=')",3.0(182),"Government hospital · Station Rd
-Open 24 hours · 020 2612 8000",3.0,Government hospital," Station Rd
+Open 24 hours · 020 2612 8000",3,Government hospital," Station Rd
 Open 24 hours ",182
 Unique Hospital,"('18.5220171', '73.8676745')",4.0(7),"Hospital · GVC9+R33, Jawaharlal Nehru Rd
-Open now",4.0,Hospital," GVC9+R33, Jawaharlal Nehru Rd
+Open now",4,Hospital," GVC9+R33, Jawaharlal Nehru Rd
 Open now",7
 Deccan Hardikar Hospital.,"('18.5304104', '73.8474815!16zL20vMGJwZjhf!19sChIJC6yhtYDAwjsRafS-OjmL398?authuser=0&hl=en&rclk=')",4.5(830),"Hospital · 1160/61, University Rd
 Open 24 hours · 077740 64097",4.5,Hospital," 1160/61, University Rd
@@ -925,13 +925,13 @@ Pune Medical Foundation,"('18.5296029', '73.8760154')",2.8(4),"General hospital 
 020 2612 4529",2.8,General hospital," 40, Ruby Hall, Sasson Road, Pune
 020 2612 4529",4
 Central Pune Doctor House | Near me in Bund Garden Pune | Multispeciality Clinic Near Me Ghorpadi Pune,"('18.5273096', '73.8780368')",5.0(70),"Hospital · G1B, The Metropole, Central Pune Doctor House, Bund Garden Rd, next to Inox theatre
-Open ⋅ Closes 9 pm · 090902 04747",5.0,Hospital," G1B, The Metropole, Central Pune Doctor House, Bund Garden Rd, next to Inox theatre
+Open ⋅ Closes 9 pm · 090902 04747",5,Hospital," G1B, The Metropole, Central Pune Doctor House, Bund Garden Rd, next to Inox theatre
 Open ⋅ Closes 9 pm ",70
 Railway Colony Hospital,"('18.5283539', '73.8988028')",3.3(3),"Hospital · GVHX+8GV
 Open ⋅ Closes 5 pm",3.3,Hospital," GVHX+8GV
 Open ⋅ Closes 5 pm",3
 Arjun Clinic And General Hospital,"('18.52579', '73.895684')",5.0(1),"Hospital · GVGW+877, Ratna Vill Apartment,Ghorpadi Gaon, Ghorpadi, Pune, opp. Anant Cinema
-Opens soon ⋅ 11:59 am · 093710 67383",5.0,Hospital," GVGW+877, Ratna Vill Apartment,Ghorpadi Gaon, Ghorpadi, Pune, opp. Anant Cinema
+Opens soon ⋅ 11:59 am · 093710 67383",5,Hospital," GVGW+877, Ratna Vill Apartment,Ghorpadi Gaon, Ghorpadi, Pune, opp. Anant Cinema
 Opens soon ⋅ 11:59 am ",1
 Madhav Baug,"('18.5358701', '73.8912926')",0(0),"General hospital · 5
 Open ⋅ Closes 6 pm · 098819 12066",0,General hospital," 5
@@ -941,11 +941,11 @@ Open ⋅ Closes 9 pm · 074993 95656",0,General hospital," Shop no 6
 Open ⋅ Closes 9 pm ",0
 "Manipal Hospital, Kharadi - Pune","('18.5410783', '73.935716')","4.5(5,777)","General hospital · 22, 2A, Mundhwa - Kharadi Rd, near Nyati Empire
 Open 24 hours · 020 6165 6666",4.5,General hospital," 22, 2A, Mundhwa - Kharadi Rd, near Nyati Empire
-Open 24 hours ","5,777"
-Vishwananda Hospital,"('18.5181751', '73.9322802')",1.0(1),Hospital · GW9J+7WC,1.0,Hospital, GW9J+7WC,1
+Open 24 hours ",5777
+Vishwananda Hospital,"('18.5181751', '73.9322802')",1.0(1),Hospital · GW9J+7WC,1,Hospital, GW9J+7WC,1
 Lifeline Hospital & Research Center,"('18.5158057', '73.9271644')",0(0),Medical Center · P-3 Pentagon,0,Medical Center, P-3 Pentagon,0
 Amanora Clinic,"('18.5147742', '73.9457789')",3.0(1),"Hospital · AMANORA APARTMENT, Baburao Shankarrao Tupe Rd
-Open ⋅ Closes 8:15 pm",3.0,Hospital," AMANORA APARTMENT, Baburao Shankarrao Tupe Rd
+Open ⋅ Closes 8:15 pm",3,Hospital," AMANORA APARTMENT, Baburao Shankarrao Tupe Rd
 Open ⋅ Closes 8:15 pm",1
 Medicare Hospital - Multi Speciality Hospital,"('18.511808', '73.937271')",3.3(19),"Hospital · Opp. Suzlon Energy, Near Amonora City, Tupe Nagar, Malwadi, Hadapsar
 Open 24 hours · 020 6078 7117",3.3,Hospital," Opp. Suzlon Energy, Near Amonora City, Tupe Nagar, Malwadi, Hadapsar
@@ -972,7 +972,7 @@ Sai care multi-speciality hospital,"('18.5252408', '73.964069')",4.6(45),"Hospit
 Open 24 hours · 073732 74949",4.6,Hospital," Ghule nagar
 Open 24 hours ",45
 24x7 Hospital,"('18.553498', '73.7538211')",5.0(1),"Hospital · HQ33+9GW
-Open 24 hours · 084120 01166",5.0,Hospital," HQ33+9GW
+Open 24 hours · 084120 01166",5,Hospital," HQ33+9GW
 Open 24 hours ",1
 Dhanwantari Hospital,"('18.559299', '73.789601')",3.6(13),"General hospital · Dhanwantari Building, Baner Rd
 Open now",3.6,General hospital," Dhanwantari Building, Baner Rd
@@ -987,10 +987,10 @@ Lopmudra Hospital,"('18.5434543', '73.7874799')",4.8(69),"Private hospital · Vi
 Open 24 hours · 080870 22022",4.8,Private hospital," Vishwakarma Nagar, CTS No. 1338, Survey No 148/4, Pashan - Sus Rd, near NIV
 Open 24 hours ",69
 Pashan Hospital Pmc,"('18.5382769', '73.7954102')",4.0(5),"Hospital · GQQW+857, Jay Tulja Bhawani Rd
-Open now",4.0,Hospital," GQQW+857, Jay Tulja Bhawani Rd
+Open now",4,Hospital," GQQW+857, Jay Tulja Bhawani Rd
 Open now",5
 Late Sahadeo Eknath Nimhan Dispensary,"('18.5376696', '73.7952431')",3.0(13),"Hospital · GQQW+339
-Open now",3.0,Hospital," GQQW+339
+Open now",3,Hospital," GQQW+339
 Open now",13
 Samarth Hospital,"('18.542204', '73.8290516')",0(0),"General hospital · GRRH+VJM, Aundh Rd
 020 6530 2128",0,General hospital," GRRH+VJM, Aundh Rd
@@ -1031,7 +1031,7 @@ Open 24 hours · 020 2669 9578",3.2,General hospital," Building 1 & 2, Neeta Par
 Open 24 hours ",68
 Cloudnine Hospital - Kalyaninagar,"('18.5457887', '73.9007306')","4.7(2,213)","Obstetrician-gynecologist · no 212/1b plot, Waves Survey, no. 59, C Ln
 Open 24 hours · 099728 99728",4.7,Obstetrician-gynecologist," no 212/1b plot, Waves Survey, no. 59, C Ln
-Open 24 hours ","2,213"
+Open 24 hours ",2213
 Aditya Hospital,"('18.5406537', '73.9346935')",0(0),"General hospital · Building No A, 2nd Floor, Kharadi Bypass, Chandannagar, Ashoka Nagar
 Open ⋅ Closes 9 pm",0,General hospital," Building No A, 2nd Floor, Kharadi Bypass, Chandannagar, Ashoka Nagar
 Open ⋅ Closes 9 pm",0
@@ -1039,10 +1039,10 @@ Seva Hospital Maternity Home,"('18.5440877', '73.9293689')",0(0),"Hospital · So
 Open now · 020 2703 3250",0,Hospital," Somnath Nagar, Vadgaon Sheri, Somnath Nagar
 Open now ",0
 Anup Nursing Home,"('18.5522', '73.920799')",3.0(7),"General hospital · Mozeswadi, Sr No.36, Wadgaonsheri, Pune, near Tempo Chouk
-Open 24 hours · 098900 39147",3.0,General hospital," Mozeswadi, Sr No.36, Wadgaonsheri, Pune, near Tempo Chouk
+Open 24 hours · 098900 39147",3,General hospital," Mozeswadi, Sr No.36, Wadgaonsheri, Pune, near Tempo Chouk
 Open 24 hours ",7
 Shradha Hospital,"('18.530508', '73.941755')",5.0(2),"Hospital · Shop No.38, Manjari Rd
-Open ⋅ Closes 9:30 pm · 098239 21693",5.0,Hospital," Shop No.38, Manjari Rd
+Open ⋅ Closes 9:30 pm · 098239 21693",5,Hospital," Shop No.38, Manjari Rd
 Open ⋅ Closes 9:30 pm ",2
 Shree Hospital,"('18.5302451', '73.9398917')",0(0),"Hospital · GWJQ+3XR, Unnamed Road",0,Hospital," GWJQ+3XR, Unnamed Road",0
 ANKUR MULTISPECIALITY HOSPITAL ( ANKUR HOSPITAL),"('18.5329988', '73.9402742')",4.3(76),"Hospital · 49, Keshav Nagar Rd
@@ -1052,16 +1052,16 @@ SHRI SAI HOSPITAL,"('18.5310982', '73.9405721')",2.8(5),"Hospital · S.No. 5, 13
 Open now",2.8,Hospital," S.No. 5, 139 Teachers Colony, 181, Shivaji Chowk, near Maruti Mandir
 Open now",5
 Kodre Hospital,"('18.5317883', '73.93786')",4.0(63),"Hospital · Sr. No. 41, 2, Manjari Rd
-Open 24 hours · 098502 66464",4.0,Hospital," Sr. No. 41, 2, Manjari Rd
+Open 24 hours · 098502 66464",4,Hospital," Sr. No. 41, 2, Manjari Rd
 Open 24 hours ",63
 Om Hospital,"('18.5311849', '73.9417978')",3.0(5),"Hospital · GWJR+FPF, Keshav Nagar, Manjari Rd
-Open 24 hours · 095455 18503",3.0,Hospital," GWJR+FPF, Keshav Nagar, Manjari Rd
+Open 24 hours · 095455 18503",3,Hospital," GWJR+FPF, Keshav Nagar, Manjari Rd
 Open 24 hours ",5
 Sonography Atrangi Daignostic Centre,"('18.5295348', '73.9444283')",0(0),"General hospital · Shop No 3, Mundhwa Rd
 Open ⋅ Closes 9 pm · 093072 81163",0,General hospital," Shop No 3, Mundhwa Rd
 Open ⋅ Closes 9 pm ",0
 Shree Hospital,"('18.5514755', '73.9412266')",3.0(243),"Hospital · Shree Hospital, kharadi 7/3/B, Gulmohar soc, near Rakshak Nagar Phase 1, behind hotel Radisson
-Open 24 hours · 020 4694 1111",3.0,Hospital," Shree Hospital, kharadi 7/3/B, Gulmohar soc, near Rakshak Nagar Phase 1, behind hotel Radisson
+Open 24 hours · 020 4694 1111",3,Hospital," Shree Hospital, kharadi 7/3/B, Gulmohar soc, near Rakshak Nagar Phase 1, behind hotel Radisson
 Open 24 hours ",243
 Sai Samarth Hospital,"('18.5280645', '73.952181')",3.7(3),"Hospital · Opp.Orbis School, Near New Poona Bakery, 1St Floor, Manjari Road, Keshav, Nagar, Mundhawa, Pune
 Open 24 hours · 096576 02424",3.7,Hospital," Opp.Orbis School, Near New Poona Bakery, 1St Floor, Manjari Road, Keshav, Nagar, Mundhawa, Pune
@@ -1084,7 +1084,7 @@ Open 24 hours",4.3,Government hospital," Ashtagandha Phase 3B
 Open 24 hours",17
 "Jupiter Hospital, Pune","('18.5657127', '73.785962')","4.4(3,624)","Hospital · Lane 3, Baner - Balewadi Rd
 Open 24 hours · 091722 84772",4.4,Hospital," Lane 3, Baner - Balewadi Rd
-Open 24 hours ","3,624"
+Open 24 hours ",3624
 Shashwat Hospital Aundh,"('18.5597445', '73.8028615')",3.8(451),"General hospital · Seasons Rd, near DAV Public School
 Open 24 hours · 020 6729 6429",3.8,General hospital," Seasons Rd, near DAV Public School
 Open 24 hours ",451
@@ -1099,9 +1099,9 @@ Open 24 hours · 020 6740 0100",3.3,General hospital," Survey No 154, AIMS Rd, N
 Open 24 hours ",268
 Umarji Mother and Child Care Hospital(उमरजी माता आणि लहान मुलांचे रुग्णालय),"('18.5710264', '73.7813015')","Ad 4.7(1,694)","Hospital · Survey no. 13, Umarji Mother and Child Care hospital, 1, Baner - Balewadi Rd, beside Aditya Shagun ""Comfort zone
 Open 24 hours · 085548 20001",Ad 4.7,Hospital," Survey no. 13, Umarji Mother and Child Care hospital, 1, Baner - Balewadi Rd, beside Aditya Shagun ""Comfort zone
-Open 24 hours ","1,694"
+Open 24 hours ",1694
 SPPU Health Centre,"('18.5485306', '73.8283191')",5.0(2),"Hospital · GRXH+C88
-Open ⋅ Closes 8 pm",5.0,Hospital," GRXH+C88
+Open ⋅ Closes 8 pm",5,Hospital," GRXH+C88
 Open ⋅ Closes 8 pm",2
 Dalvi Hospital,"('18.5330697', '73.8486055')",3.7(42),"Hospital · GRMX+6CH, Babulal Sheikth Path
 Open ⋅ Closes 10 pm",3.7,Hospital," GRMX+6CH, Babulal Sheikth Path
@@ -1110,9 +1110,9 @@ Shri Patil General Hospital,"('18.5487526', '73.8796697')",4.8(23),"Hospital · 
 Open 24 hours · 088882 36489",4.8,Hospital," Yerwada, Gurudwara Rd, near gurudwara
 Open 24 hours ",23
 Shree Samartha Hospital,"('18.5499574', '73.8720646')",5.0(1),"Private hospital · Sr. No. 12, Nr. Guru Dwara, Jai Jawan Nagar, Yerwada, Pune
-Open 24 hours · 096049 34215",5.0,Private hospital," Sr. No. 12, Nr. Guru Dwara, Jai Jawan Nagar, Yerwada, Pune
+Open 24 hours · 096049 34215",5,Private hospital," Sr. No. 12, Nr. Guru Dwara, Jai Jawan Nagar, Yerwada, Pune
 Open 24 hours ",1
-Adarsh Hospital,"('18.55176', '73.8972411')",3.0(2),"Hospital · A/27, Vithalrao Vandekar Rd",3.0,Hospital," A/27, Vithalrao Vandekar Rd",2
+Adarsh Hospital,"('18.55176', '73.8972411')",3.0(2),"Hospital · A/27, Vithalrao Vandekar Rd",3,Hospital," A/27, Vithalrao Vandekar Rd",2
 Anurwi Foundation,"('18.5478053', '73.8857733')",0(0),"General hospital · Shop No 1, Yerawada, Bhaji Market
 Open ⋅ Closes 9 pm · 070285 02285",0,General hospital," Shop No 1, Yerawada, Bhaji Market
 Open ⋅ Closes 9 pm ",0
@@ -1133,23 +1133,23 @@ Open ⋅ Closes 11 pm · 099236 75454",0,General hospital," Shop No 3 Tampo Ch
 Open ⋅ Closes 11 pm ",0
 Om Hospital,"('18.5486104', '73.924505')",0(0),"Hospital · GWXF+CRR, Unnamed Road",0,Hospital," GWXF+CRR, Unnamed Road",0
 Ansh Prakruthik Hospital,"('18.544319', '73.923604')",5.0(2),"Hospital · Laxman Poram Building, near Bhajji Market
-Open ⋅ Closes 9 pm",5.0,Hospital," Laxman Poram Building, near Bhajji Market
+Open ⋅ Closes 9 pm",5,Hospital," Laxman Poram Building, near Bhajji Market
 Open ⋅ Closes 9 pm",2
 New Municipal Hospital,"('18.5511708', '73.9390016')",3.0(2),"Hospital · HW2Q+FJ6
-Closes soon ⋅ 12 pm ⋅ Opens 9 am Tue",3.0,Hospital," HW2Q+FJ6
+Closes soon ⋅ 12 pm ⋅ Opens 9 am Tue",3,Hospital," HW2Q+FJ6
 Closes soon ⋅ 12 pm ⋅ Opens 9 am Tue",2
 Shree laxmi Hospital,"('18.5502743', '73.9373174')",4.2(35),"Hospital · HW2P+4W4, Magarpatta Rd, Near Reliance Smart
 Open 24 hours · 072489 81478",4.2,Hospital," HW2P+4W4, Magarpatta Rd, Near Reliance Smart
 Open 24 hours ",35
 Madhuri Paregnancy And Gynae Clinic,"('18.550891', '73.939312')",1.0(1),"General hospital · Shop No 4
-Open ⋅ Closes 9 pm · 092848 77793",1.0,General hospital," Shop No 4
+Open ⋅ Closes 9 pm · 092848 77793",1,General hospital," Shop No 4
 Open ⋅ Closes 9 pm ",1
 Prathmesh Hospital,"('18.5518881', '73.9367628')",1.0(1),"Hospital · Sr No-08, Spring Feild Building, Hadapsar Bypass Road,, Opposite Reliance Mart, Kharadi
-Open 24 hours · 020 6030 3520",1.0,Hospital," Sr No-08, Spring Feild Building, Hadapsar Bypass Road,, Opposite Reliance Mart, Kharadi
+Open 24 hours · 020 6030 3520",1,Hospital," Sr No-08, Spring Feild Building, Hadapsar Bypass Road,, Opposite Reliance Mart, Kharadi
 Open 24 hours ",1
 Shifa Multispeciality Hospital,"('18.5524218', '73.9399681')",0(0),Hospital · HW2Q+XX8,0,Hospital, HW2Q+XX8,0
 Dnyandip General Hospital,"('18.5635699', '73.9505861')",5.0(1),"General hospital · BLOCK-A, URBAN NIRVANA, Nagar Rd
-Closed ⋅ Opens 10 am Tue · 094223 13184",5.0,General hospital," BLOCK-A, URBAN NIRVANA, Nagar Rd
+Closed ⋅ Opens 10 am Tue · 094223 13184",5,General hospital," BLOCK-A, URBAN NIRVANA, Nagar Rd
 Closed ⋅ Opens 10 am Tue ",1
 Sharda Hospital,"('18.5742975', '73.9827986')",0(0),"General hospital · Shop No. 3, Rajlaxmi Complex, opposite Raisoni College
 Open ⋅ Closes 7 pm · 079723 00695",0,General hospital," Shop No. 3, Rajlaxmi Complex, opposite Raisoni College
@@ -1165,7 +1165,7 @@ Open 24 hours · 095793 56007",4.9,"Hospital
 Open 24 hours", 095793 56007,217
 "Ruby Hall Clinic, Hinjawadi, Pune","('18.5926118', '73.7340624')","3.7(1,187)","General hospital · Rajeev Gandhi Infotech Park, MIDC Phase No 1, Plot No, P-33
 Open 24 hours · 1800 210 4949",3.7,General hospital," Rajeev Gandhi Infotech Park, MIDC Phase No 1, Plot No, P-33
-Open 24 hours ","1,187"
+Open 24 hours ",1187
 Sunshine Multispeciality Hospital,"('18.5708693', '73.7718135')",0(0),"Hospital · HQCC+8PW, Pune
 Open now",0,Hospital," HQCC+8PW, Pune
 Open now",0
@@ -1179,7 +1179,7 @@ Benecare Hospital - Best Maternity Hospital | IVF Center in Pune,"('18.5637128',
 Open now · 084596 17839",4.9,Hospital," Ganraj Chowk, Benecare Hospital SK Business Park, opposite ABZ
 Open now ",336
 Urokul Hospital,"('18.5568073', '73.7694355')",5.0(4),"Hospital · Plot No: 61/2/1, 11/1, Mumbai Pune Bypass Rd, next to Bitwise Terratower
-Open 24 hours",5.0,Hospital," Plot No: 61/2/1, 11/1, Mumbai Pune Bypass Rd, next to Bitwise Terratower
+Open 24 hours",5,Hospital," Plot No: 61/2/1, 11/1, Mumbai Pune Bypass Rd, next to Bitwise Terratower
 Open 24 hours",4
 Pratiti Hospital,"('18.5640412', '73.7738685')",0(0),"Hospital ·
 Open ⋅ Closes 5 pm",0,Hospital,"
@@ -1196,22 +1196,22 @@ Open 24 hours ",68
 AIMS HOSPITAL AND RESEARCH CENTER,"('18.5625822', '73.8106399')",3.6(106),"Hospital · HR76+27J, Unnamed Road
 Open 24 hours · 089750 44444",3.6,Hospital," HR76+27J, Unnamed Road
 Open 24 hours ",106
-Lokmanya Hospital Aundh,"('18.5620253', '73.8050468')",5.0(1),Hospital · 163/15,5.0,Hospital, 163/15,1
+Lokmanya Hospital Aundh,"('18.5620253', '73.8050468')",5.0(1),Hospital · 163/15,5,Hospital, 163/15,1
 Accident Fracture Care,"('18.5602413', '73.8051514')",5.0(1),"General hospital · Shop No 1
-Open ⋅ Closes 11 pm · 096899 30608",5.0,General hospital," Shop No 1
+Open ⋅ Closes 11 pm · 096899 30608",5,General hospital," Shop No 1
 Open ⋅ Closes 11 pm ",1
 Unity Hospital,"('18.561533', '73.812102')",5.0(7),"Hospital · Near, Police Workshop Rd, opposite Bank of India
-Open ⋅ Closes 9 pm · 080 4803 6734",5.0,Hospital," Near, Police Workshop Rd, opposite Bank of India
+Open ⋅ Closes 9 pm · 080 4803 6734",5,Hospital," Near, Police Workshop Rd, opposite Bank of India
 Open ⋅ Closes 9 pm ",7
 Utility Hospital,"('18.5639652', '73.8127593')",0(0),Hospital · HR77+H4J,0,Hospital, HR77+H4J,0
 Aundh Kuti Hospital,"('18.5629542', '73.8100725')",4.0(50),"Hospital · AIMS Rd
-Open ⋅ Closes 5 pm",4.0,Hospital," AIMS Rd
+Open ⋅ Closes 5 pm",4,Hospital," AIMS Rd
 Open ⋅ Closes 5 pm",50
 Shreyas Hospital,"('18.554958', '73.8085929')",2.9(9),"Private hospital · Sneh Residency, 2, 411007, Hanuman Market Ln
 Open 24 hours · 020 2588 0951",2.9,Private hospital," Sneh Residency, 2, 411007, Hanuman Market Ln
 Open 24 hours ",9
 Shewale Hospital Mamta Recdent Khadki Pune 20,"('18.5628968', '73.8321068')",4.0(1),"Hospital · Unnamed Road
-Open now",4.0,Hospital," Unnamed Road
+Open now",4,Hospital," Unnamed Road
 Open now",1
 K. Baburao Genba Shevale Hospital,"('18.5626782', '73.8327006')",4.2(25),"Hospital · HR7M+33G
 Open ⋅ Closes 1 pm ⋅ Reopens 4 pm",4.2,Hospital," HR7M+33G
@@ -1220,7 +1220,7 @@ Dr. Babasaheb Ambedkar Cantonment General Hospital,"('18.5680192', '73.8486213')
 Open now · 020 2581 9283",3.7,General hospital," HRCX+932 Bus Stop, Elphinston Road, Kasamali Jumbo Marg
 Open now ",46
 Dr.Girme Hospital,"('18.5643132', '73.8392042')",3.0(1),"Hospital · C1
-Open 24 hours",3.0,Hospital," C1
+Open 24 hours",3,Hospital," C1
 Open 24 hours",1
 S M Joshi Hospital,"('18.5664375', '73.8479375')",4.8(29),"Private hospital ·
 Open now",4.8,Private hospital,"
@@ -1229,20 +1229,20 @@ Renu Hospital,"('18.5723203', '73.8373378')",0(0),"General hospital · Hrcp+Ww2,
 Open ⋅ Closes 9 pm · 096233 61740",0,General hospital," Hrcp+Ww2, Shop No 1, Bhopdi, Chowk
 Open ⋅ Closes 9 pm ",0
 Serene Hospital,"('18.5698325', '73.882371')",4.0(78),"General hospital · HV9J+WWQ, Sainik Nagar, Vishrantwadi
-Open 24 hours · 073879 48886",4.0,General hospital," HV9J+WWQ, Sainik Nagar, Vishrantwadi
+Open 24 hours · 073879 48886",4,General hospital," HV9J+WWQ, Sainik Nagar, Vishrantwadi
 Open 24 hours ",78
 Chatrapati Shivray Hospital,"('18.5622844', '73.8968337')",4.1(26),"Hospital · M 11
 Open ⋅ Closes 6 pm · 099224 58814",4.1,Hospital," M 11
 Open ⋅ Closes 6 pm ",26
-"Siddharth Hospital, Yerwada, Pune","('18.5607334', '73.893466')",5.0(1),"Hospital · HV6V+79W, Pune",5.0,Hospital," HV6V+79W, Pune",1
+"Siddharth Hospital, Yerwada, Pune","('18.5607334', '73.893466')",5.0(1),"Hospital · HV6V+79W, Pune",5,Hospital," HV6V+79W, Pune",1
 Sahyadri Super Speciality Hospital Nagar Road,"('18.5541881', '73.8970055')","4.6(6,394)","Hospital · Nagar Rd, near HERMES HERITAGE
 Open 24 hours · 088888 22222",4.6,Hospital," Nagar Rd, near HERMES HERITAGE
-Open 24 hours ","6,394"
+Open 24 hours ",6394
 Kedarnath General Hospital,"('18.5675329', '73.8965781')",5.0(1),"General hospital · Ganga Complex, Airport Rd
-Open now · 020 2669 5402",5.0,General hospital," Ganga Complex, Airport Rd
+Open now · 020 2669 5402",5,General hospital," Ganga Complex, Airport Rd
 Open now ",1
 Patil Multispecialty Hospital,"('18.5611961', '73.9214353')",3.0(1),"Hospital · HW6C+FHF
-Open 24 hours",3.0,Hospital," HW6C+FHF
+Open 24 hours",3,Hospital," HW6C+FHF
 Open 24 hours",1
 Kohakade Hospital,"('18.5628645', '73.9319802')",3.4(125),"General hospital · Sr no, 49, Nagar Rd, near Vijay Sales
 Open 24 hours · 077670 19671",3.4,General hospital," Sr no, 49, Nagar Rd, near Vijay Sales
@@ -1257,7 +1257,7 @@ HealOne Medical Centre,"('18.5638933', '73.9171743')",1.7(6),"Hospital · Survey
 Open now",1.7,Hospital," Survey No. 206/3, Behind Phoenix Market City, Viman Darshan Society
 Open now",6
 Medipoint Hospital,"('18.5630348', '73.9338092')",1.0(1),"General hospital · Shivraj Chowk, Near, Shop No 1 Medipoint Hospital
-Open ⋅ Closes 10 pm · 098506 22422",1.0,General hospital," Shivraj Chowk, Near, Shop No 1 Medipoint Hospital
+Open ⋅ Closes 10 pm · 098506 22422",1,General hospital," Shivraj Chowk, Near, Shop No 1 Medipoint Hospital
 Open ⋅ Closes 10 pm ",1
 K K Hospital,"('18.5626507', '73.9381453')",4.7(672),"General hospital · S No. 52/1/6 Samrat Ashok Road, near Mundhwa Bypass
 Open 24 hours · 097637 25913",4.7,General hospital," S No. 52/1/6 Samrat Ashok Road, near Mundhwa Bypass
@@ -1287,7 +1287,7 @@ Nawale Hospital,"('18.5803977', '73.9813611')",3.4(27),"Hospital · Fadai chowk,
 Open now · 098228 85905",3.4,Hospital," Fadai chowk, Nagar Rd
 Open now ",27
 श्री सिद्धनाथ हॉस्पिटल Shree Siddhnath Hospital,"('18.5810099', '73.982654')",5.0(1),"General hospital · NAGAR HIGHWAY, behind SHIVAJI MAHARAJ STATUE
-Open ⋅ Closes 10 pm",5.0,General hospital," NAGAR HIGHWAY, behind SHIVAJI MAHARAJ STATUE
+Open ⋅ Closes 10 pm",5,General hospital," NAGAR HIGHWAY, behind SHIVAJI MAHARAJ STATUE
 Open ⋅ Closes 10 pm",1
 Imax Multispecialty Hospital,"('18.5832615', '73.9864816')",3.7(387),"General hospital · Pune Nagar Road, Kesnand Phata Chowk
 Open 24 hours · 080 4275 5438",3.7,General hospital," Pune Nagar Road, Kesnand Phata Chowk
@@ -1297,18 +1297,18 @@ Open 24 hours · 020 6643 4366",3.8,General hospital," Sr. No. 145, 1, Mumbai Pu
 Open 24 hours ",720
 Surya Mother And Child Super Speciality Hospital,"('18.5872961', '73.7580815')","4.2(2,137)","Hospital · Pune Octroi Naka, Sr. No. 8 near Bhujbal Chowk Mumbai Hwy Hinjawadi, Wakad Rd
 Open 24 hours · 020 6791 5400",4.2,Hospital," Pune Octroi Naka, Sr. No. 8 near Bhujbal Chowk Mumbai Hwy Hinjawadi, Wakad Rd
-Open 24 hours ","2,137"
+Open 24 hours ",2137
 Phoenix Hospital,"('18.60465', '73.776174')","4.6(1,214)","General hospital · Aundh Dange Chowk Road, opp. Rythem society, near Kalewadi Phata
 Open 24 hours · 075175 10033",4.6,General hospital," Aundh Dange Chowk Road, opp. Rythem society, near Kalewadi Phata
-Open 24 hours ","1,214"
+Open 24 hours ",1214
 KRIDANAGARI MULTISPECIALITY HOSPITAL,"('18.5727337', '73.7581902')",5.0(5),"Hospital · first floor, Arjun complex, Baner - Mahalunge Rd, above Dr Thawal polyclinic
-Open 24 hours",5.0,Hospital," first floor, Arjun complex, Baner - Mahalunge Rd, above Dr Thawal polyclinic
+Open 24 hours",5,Hospital," first floor, Arjun complex, Baner - Mahalunge Rd, above Dr Thawal polyclinic
 Open 24 hours",5
 Health clinic,"('18.5719092', '73.7709028')",4.9(32),"Hospital · Sai Chowk Rd
 081809 75006",4.9,Hospital," Sai Chowk Rd
 081809 75006",32
 Aditya Birla Memorial Hospital Clinic Baner,"('18.5643891', '73.7748781')",1.0(2),"Medical clinic · HQ7F+QX2
-Open ⋅ Closes 8 pm",1.0,Medical clinic," HQ7F+QX2
+Open ⋅ Closes 8 pm",1,Medical clinic," HQ7F+QX2
 Open ⋅ Closes 8 pm",2
 Sanjivani Vitalife Hospital,"('18.5649294', '73.8020624')",4.2(618),"General hospital · 241, 2/1, New DP Rd
 Open 24 hours · 020 6764 3200",4.2,General hospital," 241, 2/1, New DP Rd
@@ -1317,7 +1317,7 @@ Seva hospital (सेवा हॉस्पिटल ),"('18.5748303', '73.82776
 Open 24 hours · 091306 38795",4.4,General hospital," Seva Hospital, Lane No. 3
 Open 24 hours ",32
 Shree Hospital,"('18.574263', '73.8199232')",4.0(4),"Hospital ·
-Open now",4.0,Hospital,"
+Open now",4,Hospital,"
 Open now",4
 Makan Hospital,"('18.5757111', '73.8197464')",2.6(24),"Hospital · 9, Ganga Nagar Rd
 Open 24 hours · 020 2728 0278",2.6,Hospital," 9, Ganga Nagar Rd
@@ -1326,10 +1326,10 @@ Seva Hospital,"('18.5791125', '73.8131188')",0(0),"General hospital · Shivapras
 Open ⋅ Closes 9 pm · 091306 37895",0,General hospital," Shivaprasad Building, 1, Pushpa Park Rd
 Open ⋅ Closes 9 pm ",0
 "Aundh Chest Hospital, Pune","('18.5758369', '73.8068929')",4.0(35),"Hospital · 13 TO, 15, PCH Campus Rd
-Open 24 hours",4.0,Hospital," 13 TO, 15, PCH Campus Rd
+Open 24 hours",4,Hospital," 13 TO, 15, PCH Campus Rd
 Open 24 hours",35
 "Hindu cemetry, Khadki","('18.571604', '73.8457666')",4.0(1),"Hospital · HRCW+J8R
-Open now",4.0,Hospital," HRCW+J8R
+Open now",4,Hospital," HRCW+J8R
 Open now",1
 Hedekar Hospital,"('18.570696', '73.8378141')",0(0),"Government hospital · 18, Old Mumbai - Pune Hwy",0,Government hospital," 18, Old Mumbai - Pune Hwy",0
 Dr. Sayyad Hospital,"('18.5680599', '73.8511906')",0(0),"Hospital · HV92+6FG
@@ -1365,7 +1365,7 @@ Poona superspeciality Clinic,"('18.5685898', '73.9072189')",3.6(32),"Hospital ·
 Open ⋅ Closes 1 pm ⋅ Reopens 5 pm · 093562 07536",3.6,Hospital," New Airport Road Viman Nagar Town Square complex, above Dorabjee shop
 Open ⋅ Closes 1 pm ⋅ Reopens 5 pm ",32
 Konark multi speciality hospital,"('18.5671498', '73.9132243')",0(0),Hospital · HW87+V75,0,Hospital, HW87+V75,0
-Ex Servicemen Contributory Health Scheme,"('18.5681141', '73.8975962')",5.0(1),"Hospital · 73/A, Airport Rd",5.0,Hospital," 73/A, Airport Rd",1
+Ex Servicemen Contributory Health Scheme,"('18.5681141', '73.8975962')",5.0(1),"Hospital · 73/A, Airport Rd",5,Hospital," 73/A, Airport Rd",1
 SMC 9BRD,"('18.5720083', '73.9223815')",4.4(5),"General hospital · HWCC+RX2, Air Force Campus, Viman Nagar
 Open 24 hours",4.4,General hospital," HWCC+RX2, Air Force Campus, Viman Nagar
 Open 24 hours",5
@@ -1377,7 +1377,7 @@ Care Hospital,"('18.5748462', '73.9606383')",1.6(10),"Hospital · HXF6+W7J, Samr
 Open 24 hours",1.6,Hospital," HXF6+W7J, Samrat Ashok Rd
 Open 24 hours",10
 Sai Sheaddha Hospital (Maternity),"('18.5782102', '73.9947284')",5.0(1),"Hospital · HXHV+7VQ, Konark Orchid
-Open ⋅ Closes 10 pm · 090226 58691",5.0,Hospital," HXHV+7VQ, Konark Orchid
+Open ⋅ Closes 10 pm · 090226 58691",5,Hospital," HXHV+7VQ, Konark Orchid
 Open ⋅ Closes 10 pm ",1
 Dr. Bhand's Nitya Hospital | BEST HOSPITAL IN HINJEWADI WAKAD PUNE |,"('18.5883737', '73.7416804')",4.4(7),"Hospital · Sakhare Vasti Rd
 Open 24 hours · 094044 77725",4.4,Hospital," Sakhare Vasti Rd
@@ -1392,10 +1392,10 @@ Helambe Hospital,"('18.5893942', '73.7523553')",3.8(5),"Hospital · Wakad 411 05
 Open ⋅ Closes 8 pm",3.8,Hospital," Wakad 411 057
 Open ⋅ Closes 8 pm",5
 Sanjeevan Clinic Balewadi,"('18.5786258', '73.7758863')",5.0(2),"Hospital · Gulmohar Sanjeevan Clinic Opposite to Kunal Aspire Complex, 51/A, Bajirav Shripati Road
-Open ⋅ Closes 1 pm · 077699 59421",5.0,Hospital," Gulmohar Sanjeevan Clinic Opposite to Kunal Aspire Complex, 51/A, Bajirav Shripati Road
+Open ⋅ Closes 1 pm · 077699 59421",5,Hospital," Gulmohar Sanjeevan Clinic Opposite to Kunal Aspire Complex, 51/A, Bajirav Shripati Road
 Open ⋅ Closes 1 pm ",2
 Ojas Hospital,"('18.5926216', '73.7625155')",1.0(2),"Hospital · HQV7+22R
-Open 24 hours · 086249 14694",1.0,Hospital," HQV7+22R
+Open 24 hours · 086249 14694",1,Hospital," HQV7+22R
 Open 24 hours ",2
 Cradle Hospital,"('18.5908099', '73.7849183')",4.6(48),"Hospital · Shanti Niketan Society
 Open 24 hours",4.6,Hospital," Shanti Niketan Society
@@ -1407,7 +1407,7 @@ Pushp Clinic,"('18.5974087', '73.7904021')",0(0),"General hospital · Shop No 14
 Open ⋅ Closes 6 pm · 095278 00909",0,General hospital," Shop No 14, Kokane Chowk
 Open ⋅ Closes 6 pm ",0
 Bora Hospital,"('18.5828916', '73.8123475')",4.0(44),"General hospital · HRM6+5W5
-Open 24 hours · 020 2728 2846",4.0,General hospital," HRM6+5W5
+Open 24 hours · 020 2728 2846",4,General hospital," HRM6+5W5
 Open 24 hours ",44
 District Hospital Pune,"('18.576736', '73.8055575')",3.8(201),"Government hospital · HRG4+M6V, Aundh - Ravet BRTS Rd, near Sangvi
 Open 24 hours · 020 2746 2514",3.8,Government hospital," HRG4+M6V, Aundh - Ravet BRTS Rd, near Sangvi
@@ -1425,7 +1425,7 @@ Pooja Hospital,"('18.5891737', '73.8191366')",3.8(44),"General hospital · Surve
 Open ⋅ Closes 11 pm",3.8,General hospital," Survey no. 43/1/1, Anand Park, Dapodi Rd
 Open ⋅ Closes 11 pm",44
 BHAKTI HOSPITAL,"('18.5851587', '73.819713')",3.0(2),"Hospital · Classica Heights, Rajmata Jijau Marg
-Open ⋅ Closes 1:30 pm",3.0,Hospital," Classica Heights, Rajmata Jijau Marg
+Open ⋅ Closes 1:30 pm",3,Hospital," Classica Heights, Rajmata Jijau Marg
 Open ⋅ Closes 1:30 pm",2
 Shree Multispeciality Hospital Maternity & ICU,"('18.582229', '73.8131138')",4.8(33),"Hospital · Kirti Nagar Kranti Chowk, Survey no 71/1, New Sangvi Main Rd, opposite to Dharmveer Sambhaji Bank
 Open 24 hours · 091460 18505",4.8,Hospital," Kirti Nagar Kranti Chowk, Survey no 71/1, New Sangvi Main Rd, opposite to Dharmveer Sambhaji Bank
@@ -1434,16 +1434,16 @@ Lunkad Hospital,"('18.5840674', '73.8331993')",2.9(26),"Hospital · HRMM+J7G, Mu
 Open 24 hours · 020 2714 8194",2.9,Hospital," HRMM+J7G, Mumbai-Pune Road, Dapodi
 Open 24 hours ",26
 P C M C Hospital,"('18.5881', '73.832157')",5.0(1),"Hospital · HRQJ+6VM, Chatrapati Shivaji, Maharaj Chowk
-Closes soon ⋅ 12 pm ⋅ Opens 8 am Tue",5.0,Hospital," HRQJ+6VM, Chatrapati Shivaji, Maharaj Chowk
+Closes soon ⋅ 12 pm ⋅ Opens 8 am Tue",5,Hospital," HRQJ+6VM, Chatrapati Shivaji, Maharaj Chowk
 Closes soon ⋅ 12 pm ⋅ Opens 8 am Tue",1
 Nusinha Hospital Cardio Diabetic Center,"('18.5821996', '73.8287712')",3.8(29),"Hospital
 Open 24 hours · 084466 68877",3.8,"Hospital
 Open 24 hours", 084466 68877,29
 Konkar Hospital,"('18.5807652', '73.876037')",4.0(1),"Hospital · A/70, Kastuba Housing Society, Vishrantwadi, Vishrantwadi, near Alandi Road
-098500 35463",4.0,Hospital," A/70, Kastuba Housing Society, Vishrantwadi, Vishrantwadi, near Alandi Road
+098500 35463",4,Hospital," A/70, Kastuba Housing Society, Vishrantwadi, Vishrantwadi, near Alandi Road
 098500 35463",1
 Pune Municipal Clinic,"('18.5781186', '73.8749101')",3.0(4),"Hospital · Government Hospital, Vishrantwadi, Alka Avinash Road
-Open ⋅ Closes 2 pm ⋅ Reopens 4 pm",3.0,Hospital," Government Hospital, Vishrantwadi, Alka Avinash Road
+Open ⋅ Closes 2 pm ⋅ Reopens 4 pm",3,Hospital," Government Hospital, Vishrantwadi, Alka Avinash Road
 Open ⋅ Closes 2 pm ⋅ Reopens 4 pm",4
 CT Nursing Home | Best Gynecologist / Maternity / Neonatal Care / Laparoscopic / Infertility Specialist Hospital in Dhanori,"('18.5968821', '73.9001378')",3.9(453),"General hospital · Shree Ram Pride, 16, Dhanori Rd
 Open 24 hours · 077091 83772",3.9,General hospital," Shree Ram Pride, 16, Dhanori Rd
@@ -1468,13 +1468,13 @@ Shree Siddhi Hospital,"('18.5775399', '73.9570912')",3.7(3),"Hospital · Street 
 Open ⋅ Closes 10 pm · 095115 55055",3.7,Hospital," Street No. 2337, Pune-Nagar Road, MH SH 27, Kawade Wasti, Wagholi, Kawade, Wasti,
 Open ⋅ Closes 10 pm ",3
 Sideshwar Hospital,"('18.5732217', '73.9560827')",4.0(1),"Hospital · HXF4+7CP, Nagar Rd
-Open now · 098231 65775",4.0,Hospital," HXF4+7CP, Nagar Rd
+Open now · 098231 65775",4,Hospital," HXF4+7CP, Nagar Rd
 Open now ",1
 Metro Superspeciality Hospital and Trauma Center,"('18.5806309', '73.9825211')",4.8(91),"Hospital · Nagar Rd, behind Shivaji Maharaj Statue
 Open 24 hours · 099769 60707",4.8,Hospital," Nagar Rd, behind Shivaji Maharaj Statue
 Open 24 hours ",91
 Satav Hospital,"('18.5827279', '73.9819849')",5.0(1),"Hospital · At - Post Wagholi, Gavthan, Ayush Hospital, Near Gav Ves, Near Water Tank, Taluka - Haveli, District - Pune 412207
-Open ⋅ Closes 2 pm ⋅ Reopens 4 pm",5.0,Hospital," At - Post Wagholi, Gavthan, Ayush Hospital, Near Gav Ves, Near Water Tank, Taluka - Haveli, District - Pune 412207
+Open ⋅ Closes 2 pm ⋅ Reopens 4 pm",5,Hospital," At - Post Wagholi, Gavthan, Ayush Hospital, Near Gav Ves, Near Water Tank, Taluka - Haveli, District - Pune 412207
 Open ⋅ Closes 2 pm ⋅ Reopens 4 pm",1
 Lotus Speciality Hospital,"('18.5788156', '73.9792104')",4.7(48),"Hospital · Paygude Hight, 1st Floor., Baif Rd, Above canara bank, Opposite moze college
 Open 24 hours · 077588 85333",4.7,Hospital," Paygude Hight, 1st Floor., Baif Rd, Above canara bank, Opposite moze college
@@ -1482,7 +1482,7 @@ Open 24 hours ",48
 Phoenix Multispeciality Hospital,"('18.5815004', '73.9850508')",4.3(46),"Hospital
 Open 24 hours · 095942 06018",4.3,"Hospital
 Open 24 hours", 095942 06018,46
-Hinjawadi medical foundation,"('18.5953163', '73.7287096')",4.0(3),Hospital · HPWH+4FG,4.0,Hospital, HPWH+4FG,3
+Hinjawadi medical foundation,"('18.5953163', '73.7287096')",4.0(3),Hospital · HPWH+4FG,4,Hospital, HPWH+4FG,3
 Sai Hospital,"('18.5966284', '73.7409046')",2.2(11),"Hospital · 273, Bhatewara Nagar
 Open ⋅ Closes 1 pm ⋅ Reopens 5 pm",2.2,Hospital," 273, Bhatewara Nagar
 Open ⋅ Closes 1 pm ⋅ Reopens 5 pm",11
@@ -1507,21 +1507,21 @@ Open 24 hours · 097637 21784",4.8,Hospital," SEETA PLAZA, BRT ROAD, opp. SWARAJ
 Open 24 hours ",56
 Care Hospital Multispeciality & Critical Care Centre,"('18.5984827', '73.8068374')",0(0),"Hospital · HRX4+9PW, Seeta Plaza, Brt Road, Pimple Saudagar, opp. Swaraj Garden",0,Hospital," HRX4+9PW, Seeta Plaza, Brt Road, Pimple Saudagar, opp. Swaraj Garden",0
 Bhalchandra Hospital,"('18.5932067', '73.8242654')",5.0(4),"Hospital · 1, New Laxmi Nagar, Syrvey, 4, Ln 1
-020 3241 3389",5.0,Hospital," 1, New Laxmi Nagar, Syrvey, 4, Ln 1
+020 3241 3389",5,Hospital," 1, New Laxmi Nagar, Syrvey, 4, Ln 1
 020 3241 3389",4
 Dr.Borse 's Neuro Clinic,"('18.5970505', '73.8158769')",0(0),"General hospital · Shop No 3, Park Chowk
 Open ⋅ Closes 6 pm · 077983 22738",0,General hospital," Shop No 3, Park Chowk
 Open ⋅ Closes 6 pm ",0
 Kathole multi-speciality hospital and trauma centre,"('18.5877904', '73.8166294')",0(0),Hospital ·,0,Hospital,,0
-Hospitals Services,"('18.5854914', '73.8231076')",4.0(1),Hospital · Flat no 303. Nayan Datta Classics Appt,4.0,Hospital, Flat no 303. Nayan Datta Classics Appt,1
+Hospitals Services,"('18.5854914', '73.8231076')",4.0(1),Hospital · Flat no 303. Nayan Datta Classics Appt,4,Hospital, Flat no 303. Nayan Datta Classics Appt,1
 Mangalmurti hospital,"('18.5835062', '73.8301732')",4.3(6),"Hospital · 4, Dapodi Bridge
 Open ⋅ Closes 8 pm · 095276 89094",4.3,Hospital," 4, Dapodi Bridge
 Open ⋅ Closes 8 pm ",6
 Sheeba Healthcare,"('18.5868316', '73.832527')",4.0(1),"Hospital · HRPM+P2J, Old Mumbai - Pune Hwy
-083778 02892",4.0,Hospital," HRPM+P2J, Old Mumbai - Pune Hwy
+083778 02892",4,Hospital," HRPM+P2J, Old Mumbai - Pune Hwy
 083778 02892",1
 PCMC Hospital,"('18.6203372', '73.847912')",3.0(28),"General hospital · JRCX+45M, Near PCMT Bus Depo
-Open 24 hours · 086058 22777",3.0,General hospital," JRCX+45M, Near PCMT Bus Depo
+Open 24 hours · 086058 22777",3,General hospital," JRCX+45M, Near PCMT Bus Depo
 Open 24 hours ",28
 Bapat Multi-speciality Hospital,"('18.5909161', '73.8959036')",4.3(27),"Hospital · Laxmi Nivas, A-36, 3, Rd Number 11
 Open 24 hours · 082085 05015",4.3,Hospital," Laxmi Nivas, A-36, 3, Rd Number 11
@@ -1536,7 +1536,7 @@ Open ⋅ Closes 9 pm ",0
 Open 24 hours · 084088 35991",4.4,Hospital," 281/3/1, Vansh galaxy, Porwal Rd, near dhanori jakat naka
 Open 24 hours ",14
 Sonal Hospital,"('18.5979354', '73.9107453')",1.0(2),"Hospital · 17, Dhanori Rd
-089286 17276",1.0,Hospital," 17, Dhanori Rd
+089286 17276",1,Hospital," 17, Dhanori Rd
 089286 17276",2
 VIMAL MULTISPECIALITY HOSPITAL & RESEARCH CENTRE,"('18.597276', '73.9084464')",4.3(55),"Private hospital · 281,Dhanori Jakat-Naka
 Open 24 hours",4.3,Private hospital," 281,Dhanori Jakat-Naka
@@ -1557,7 +1557,7 @@ Wadhamanviswa Hospital,"('18.5964354', '73.9243474')",0(0),"Hospital · Chatrapa
 Open ⋅ Closes 8 pm · 099754 63004",0,Hospital," Chatrapati Shivaji Maharaj Chowk, Shatabdi Complex, Dhanori-Lohegaon Rd
 Open ⋅ Closes 8 pm ",0
 Kashinath Hospital,"('18.5970533', '73.9241562')",4.0(2),"Children's hospital · HWWF+RMC, Main Rd
-Open ⋅ Closes 8 pm",4.0,Children's hospital," HWWF+RMC, Main Rd
+Open ⋅ Closes 8 pm",4,Children's hospital," HWWF+RMC, Main Rd
 Open ⋅ Closes 8 pm",2
 Jeevanrekha Hospital,"('18.5898404', '73.9283276')",4.4(7),"Hospital · B-8, Laxmi Classic, Pratiknagar, Vishrantwadi
 Open 24 hours · 098901 81234",4.4,Hospital," B-8, Laxmi Classic, Pratiknagar, Vishrantwadi
@@ -1566,7 +1566,7 @@ SATHE HOSPITAL,"('18.5956053', '73.9277986')",4.2(5),"Hospital ·
 Open 24 hours",4.2,Hospital,"
 Open 24 hours",5
 Kan Nak Ghasa Hospital,"('18.5832161', '73.9901182')",5.0(1),"General hospital · Sr No 647, Janai Building, near Axis Bank
-Open ⋅ Closes 8 pm · 081491 29490",5.0,General hospital," Sr No 647, Janai Building, near Axis Bank
+Open ⋅ Closes 8 pm · 081491 29490",5,General hospital," Sr No 647, Janai Building, near Axis Bank
 Open ⋅ Closes 8 pm ",1
 En &. T Hospital,"('18.584045', '73.9903')",0(0),"Private hospital · Gat No. 648/2, Kesnand Phata, Nagar Rd
 020 3040 0400",0,Private hospital," Gat No. 648/2, Kesnand Phata, Nagar Rd
@@ -1575,10 +1575,10 @@ CITY HOSPITAL,"('18.6066449', '73.723484')",4.3(43),"Hospital · Survey 45, Maru
 Open 24 hours · 077102 03084",4.3,Hospital," Survey 45, Marunji Rd
 Open 24 hours ",43
 Arihant Clinic - Dr. Tripti,"('18.6101372', '73.7444105')",5.0(4),"General hospital · Sentosa Pearl Society Block-1, Sentosa Pearl Society, Santosa Pearl , shop no 4, near Akshara International School & Junior College
-Open ⋅ Closes 1 pm ⋅ Reopens 6 pm · 089751 00860",5.0,General hospital," Sentosa Pearl Society Block-1, Sentosa Pearl Society, Santosa Pearl , shop no 4, near Akshara International School & Junior College
+Open ⋅ Closes 1 pm ⋅ Reopens 6 pm · 089751 00860",5,General hospital," Sentosa Pearl Society Block-1, Sentosa Pearl Society, Santosa Pearl , shop no 4, near Akshara International School & Junior College
 Open ⋅ Closes 1 pm ⋅ Reopens 6 pm ",4
 Doctor Mulay Hospital,"('18.6020695', '73.74753')",4.0(2),"General hospital · Bhumkar, Shedge Wasti Road
-Open 24 hours · 084484 44867",4.0,General hospital," Bhumkar, Shedge Wasti Road
+Open 24 hours · 084484 44867",4,General hospital," Bhumkar, Shedge Wasti Road
 Open 24 hours ",2
 Maaher Hospital,"('18.6127029', '73.7625145')",3.7(3),"Hospital · 273, Bhatewara Nagar
 Closes soon ⋅ 1 pm ⋅ Reopens 5 pm",3.7,Hospital," 273, Bhatewara Nagar
@@ -1596,7 +1596,7 @@ Ankur multi-speciality hospital,"('18.6062954', '73.773057')",4.4(11),"Hospital 
 Open 24 hours · 099234 89345",4.4,Hospital," JQ4F+G67, Belthika Nagar, Police Line Road Wakad
 Open 24 hours ",11
 Orion Multispeciality Hospital,"('18.6000814', '73.763521')",4.0(33),"Hospital · Akruti Avenues, 301, Datta Mandir Rd
-Open 24 hours · 089285 04499",4.0,Hospital," Akruti Avenues, 301, Datta Mandir Rd
+Open 24 hours · 089285 04499",4,Hospital," Akruti Avenues, 301, Datta Mandir Rd
 Open 24 hours ",33
 Lokmanya Hospital Chinchwad,"('18.6082188', '73.7696455')",0(0),"Hospital · JQ59+7VJ
 098819 85453",0,Hospital," JQ59+7VJ
@@ -1606,10 +1606,10 @@ Open 24 hours · 099234 89345",4.8,Hospital," 16 No Bus Stop, Police Line Corner
 Open 24 hours ",585
 Entrance To Khivansara Pcmc Hospital,"('18.6093473', '73.7700297')",3.8(4),"General hospital · Jadhav Corner ( Kala Khadak), Dange Chowk Rd",3.8,General hospital," Jadhav Corner ( Kala Khadak), Dange Chowk Rd",4
 Vishal Haospital,"('18.6080118', '73.7800949')",5.0(1),"Hospital · Sr No. 13/12, Pawar Nagar, Kalewadi Phata, Thergaon, Aundh-Ravet Road
-Open 24 hours · 020 2727 0088",5.0,Hospital," Sr No. 13/12, Pawar Nagar, Kalewadi Phata, Thergaon, Aundh-Ravet Road
+Open 24 hours · 020 2727 0088",5,Hospital," Sr No. 13/12, Pawar Nagar, Kalewadi Phata, Thergaon, Aundh-Ravet Road
 Open 24 hours ",1
 Maya Hospital,"('18.608892', '73.7812708')",4.0(1),"General hospital · Dwarka Sai Wonders, Commercial Complex Survey no 173, Shiv Sai Road
-Open 24 hours · 084118 11558",4.0,General hospital," Dwarka Sai Wonders, Commercial Complex Survey no 173, Shiv Sai Road
+Open 24 hours · 084118 11558",4,General hospital," Dwarka Sai Wonders, Commercial Complex Survey no 173, Shiv Sai Road
 Open 24 hours ",1
 Chame Hospital,"('18.6038676', '73.7904246')",3.7(13),"Hospital · JQ5J+625
 Open ⋅ Closes 10 pm",3.7,Hospital," JQ5J+625
@@ -1625,7 +1625,7 @@ Yashwantrao Chavan Memorial Hospital,"('18.6218194', '73.8210282')",3.6(451),"Ge
 Open 24 hours · 020 6733 2222",3.6,General hospital," YCM Hospital Rd
 Open 24 hours ",451
 Hirkani Speciality Hospital,"('18.6178849', '73.8627815')",4.0(1),"General hospital · 5Th Floor, Flat No, Phuge Prima Mall, B Wing, 22, Dighi Rd
-Open ⋅ Closes 9 pm · 070307 57757",4.0,General hospital," 5Th Floor, Flat No, Phuge Prima Mall, B Wing, 22, Dighi Rd
+Open ⋅ Closes 9 pm · 070307 57757",4,General hospital," 5Th Floor, Flat No, Phuge Prima Mall, B Wing, 22, Dighi Rd
 Open ⋅ Closes 9 pm ",1
 "Mauli Hospital, Bhosari","('18.6245417', '73.8577975')",4.5(4),"General hospital · JVF5+R47, Bhosari Alandi Rd, above Medplus Medical Store Shastri Chauk
 Open now · 077698 54704",4.5,General hospital," JVF5+R47, Bhosari Alandi Rd, above Medplus Medical Store Shastri Chauk
@@ -1655,10 +1655,10 @@ Shree Hospital,"('18.5957929', '73.8945986')",0(0),"Hospital · 82/5, Dhanori Rd
 Open ⋅ Closes 8 pm",0,Hospital," 82/5, Dhanori Rd
 Open ⋅ Closes 8 pm",0
 clinic,"('18.6005848', '73.9092613')",4.0(3),"Hospital · 280, Porwal Rd
-Open ⋅ Closes 2 pm ⋅ Reopens 5 pm",4.0,Hospital," 280, Porwal Rd
+Open ⋅ Closes 2 pm ⋅ Reopens 5 pm",4,Hospital," 280, Porwal Rd
 Open ⋅ Closes 2 pm ⋅ Reopens 5 pm",3
 Sai Hospital,"('18.598377', '73.925345')",3.0(4),"Hospital · Classic Plaza, Vadgaon Shinde Road, Lohgaon-Shinde Vadgaon Rd
-Open ⋅ Closes 11:59 pm · 087930 33625",3.0,Hospital," Classic Plaza, Vadgaon Shinde Road, Lohgaon-Shinde Vadgaon Rd
+Open ⋅ Closes 11:59 pm · 087930 33625",3,Hospital," Classic Plaza, Vadgaon Shinde Road, Lohgaon-Shinde Vadgaon Rd
 Open ⋅ Closes 11:59 pm ",4
 Dr. Chavhan Hospital & Research Center,"('18.5970145', '73.9256149')",4.5(4),"Hospital · HWWG+R65, near Raj Medical
 Open now",4.5,Hospital," HWWG+R65, near Raj Medical
@@ -1670,10 +1670,10 @@ Life Care Hospital,"('18.6348454', '73.7415796')",3.6(20),"General hospital · N
 Open now · 099709 26348",3.6,General hospital," No.24, Jambhulkar Complex, Hinjawadi Road, Hinjewadi
 Open now ",20
 Dr. Khandelwal's Ortho Care,"('18.6139598', '73.7634183')",5.0(2),"General hospital · Sentosa Pearl Society Block-1, Sentosa Pearl Society, Santosa Pearl , shop no 4, near Akshara International School & Junior College
-Closes soon ⋅ 1 pm ⋅ Reopens 6 pm · 089751 00860",5.0,General hospital," Sentosa Pearl Society Block-1, Sentosa Pearl Society, Santosa Pearl , shop no 4, near Akshara International School & Junior College
+Closes soon ⋅ 1 pm ⋅ Reopens 6 pm · 089751 00860",5,General hospital," Sentosa Pearl Society Block-1, Sentosa Pearl Society, Santosa Pearl , shop no 4, near Akshara International School & Junior College
 Closes soon ⋅ 1 pm ⋅ Reopens 6 pm ",2
 Shree Hospital,"('18.6176611', '73.7742089')",5.0(1),"General hospital · Shop No 1, Dange Chowk, Arun Plaza, Aditya Birla Hospital Marg
-Open ⋅ Closes 9 pm · 095953 19186",5.0,General hospital," Shop No 1, Dange Chowk, Arun Plaza, Aditya Birla Hospital Marg
+Open ⋅ Closes 9 pm · 095953 19186",5,General hospital," Shop No 1, Dange Chowk, Arun Plaza, Aditya Birla Hospital Marg
 Open ⋅ Closes 9 pm ",1
 Spandan Hospital,"('18.6142103', '73.7657422')",3.7(43),"Hospital · Sr no 19-3 plot no A-1 Bhoir Plaza, Dange Chowk Rd
 Open 24 hours · 088501 21797",3.7,Hospital," Sr no 19-3 plot no A-1 Bhoir Plaza, Dange Chowk Rd
@@ -1697,13 +1697,13 @@ Universal Hospital,"('18.621787', '73.7959311')",4.4(10),"Hospital · Sr. No.- 1
 Open 24 hours · 085306 84949",4.4,Hospital," Sr. No.- 108/2/1 Dashmesh Square 1st Floor, near Santnirankari Bhavan
 Open 24 hours ",10
 Dr. Harke's Multi-speciality Hospital,"('18.6114296', '73.7845876')",5.0(119),"Private hospital · CTS3026, 3027, behind domino's pizza
-Open 24 hours",5.0,Private hospital," CTS3026, 3027, behind domino's pizza
+Open 24 hours",5,Private hospital," CTS3026, 3027, behind domino's pizza
 Open 24 hours",119
 Care Hospital,"('18.6218638', '73.7987736')",0(0),"General hospital · Shop No 6
 Open ⋅ Closes 10 pm · 093709 67001",0,General hospital," Shop No 6
 Open ⋅ Closes 10 pm ",0
-H.A Hospital,"('18.6232513', '73.8123945')",4.0(1),Hospital · JRF6+8X2,4.0,Hospital, JRF6+8X2,1
-Mother Care Wable Hospital,"('18.622926', '73.8014726')",5.0(2),"Maternity Centre · 243, MG Rd, Near Fruit Market",5.0,Maternity Centre," 243, MG Rd, Near Fruit Market",2
+H.A Hospital,"('18.6232513', '73.8123945')",4.0(1),Hospital · JRF6+8X2,4,Hospital, JRF6+8X2,1
+Mother Care Wable Hospital,"('18.622926', '73.8014726')",5.0(2),"Maternity Centre · 243, MG Rd, Near Fruit Market",5,Maternity Centre," 243, MG Rd, Near Fruit Market",2
 CitiCare Hospital Pimpri Chinchwad,"('18.6253259', '73.8019384')",4.2(166),"General hospital · Shubham Galleria, KBS Rd, next to chroma, near pimpri
 Open 24 hours · 020 2744 5288",4.2,General hospital," Shubham Galleria, KBS Rd, next to chroma, near pimpri
 Open 24 hours ",166
@@ -1715,7 +1715,7 @@ Open ⋅ Closes 9 pm · 093718 94628",4.9,Hospital," Sushruth hospital, Kamgar
 Open ⋅ Closes 9 pm ",96
 JIJAMATA HOSPITAL,"('18.6239079', '73.8124984')",0(0),Hospital · PCMC Hindi school,0,Hospital, PCMC Hindi school,0
 Girme Hospital,"('18.6254386', '73.8048658')",4.0(1),"Hospital · 1st Floor, Sukhwani Chamber, Station Road, Pimpri
-Open ⋅ Closes 11:30 am Tue · 020 2742 1804",4.0,Hospital," 1st Floor, Sukhwani Chamber, Station Road, Pimpri
+Open ⋅ Closes 11:30 am Tue · 020 2742 1804",4,Hospital," 1st Floor, Sukhwani Chamber, Station Road, Pimpri
 Open ⋅ Closes 11:30 am Tue ",1
 hospital,"('18.6238742', '73.8216834')",1.7(3),"Medical Center · JRFC+GMV
 Open now",1.7,Medical Center," JRFC+GMV
@@ -1758,12 +1758,12 @@ Open 24 hours · 080077 05797",4.9,Hospital," Tathawade Rd
 Open 24 hours ",139
 Aditya Birla Memorial Hospital,"('18.625716', '73.774776')","3.2(2,222)","Private hospital · Aditya Birla Hospital Marg
 Open 24 hours · 020 3071 7500",3.2,Private hospital," Aditya Birla Hospital Marg
-Open 24 hours ","2,222"
+Open 24 hours ",2222
 Om Shree Swami Samarth Hospital,"('18.634533', '73.7791085')",2.9(54),"General hospital · Bijli Nagar Rd
 Open ⋅ Closes 10 pm · 020 2735 5230",2.9,General hospital," Bijli Nagar Rd
 Open ⋅ Closes 10 pm ",54
 Aditya Birla Hospital,"('18.6251911', '73.7742473')",4.0(88),"Cancer treatment center · Aditya Birla Hospital, Chinchwad
-Open 24 hours · 020 3071 7610",4.0,Cancer treatment center," Aditya Birla Hospital, Chinchwad
+Open 24 hours · 020 3071 7610",4,Cancer treatment center," Aditya Birla Hospital, Chinchwad
 Open 24 hours ",88
 7 Orange Hospital - Best Multispeciality Hospital in PCMC | General Hospital in PCMC,"('18.6332445', '73.7790974')",4.6(969),"Hospital · Bijli Nagar Rd
 Open 24 hours · 073500 55754",4.6,Hospital," Bijli Nagar Rd
@@ -1778,7 +1778,7 @@ Padhmja Hospital,"('18.6315713', '73.7738199')",0(0),"Hospital · 3/11/1071
 Open now",0,Hospital," 3/11/1071
 Open now",0
 "PHARANDE HOSPITAL Maternity, Gynaec & General Medicine","('18.6339714', '73.7878717')",5.0(1),"Hospital · near Ramkrishna More Auditorium
-Open 24 hours",5.0,Hospital," near Ramkrishna More Auditorium
+Open 24 hours",5,Hospital," near Ramkrishna More Auditorium
 Open 24 hours",1
 Anand Hospital,"('18.6280641', '73.7998333')",3.7(3),"Hospital · 15 mandir society , DHankawadi last bus stop
 020 2437 1949",3.7,Hospital," 15 mandir society , DHankawadi last bus stop
@@ -1790,7 +1790,7 @@ Om Hospital,"('18.6243099', '73.8081098')",4.6(10),"Hospital · Pune-Bombay Road
 Open 24 hours · 095116 25138",4.6,Hospital," Pune-Bombay Road, Near Hotel Rajshree
 Open 24 hours ",10
 Janshil Hospital,"('18.6312961', '73.8210862')",5.0(2),"Hospital · S.N. 101, Tiranga Chowk
-Open ⋅ Closes 1:30 pm ⋅ Reopens 5:30 pm · 020 2743 2157",5.0,Hospital," S.N. 101, Tiranga Chowk
+Open ⋅ Closes 1:30 pm ⋅ Reopens 5:30 pm · 020 2743 2157",5,Hospital," S.N. 101, Tiranga Chowk
 Open ⋅ Closes 1:30 pm ⋅ Reopens 5:30 pm ",2
 Medicover Hospital - Best Hospital in Pune,"('18.6344109', '73.8461467')",4.8(288),"Hospital · Indrayani Nagar Rd, beside Union Bank of India
 Open 24 hours · 040 6833 4455",4.8,Hospital," Indrayani Nagar Rd, beside Union Bank of India
@@ -1808,7 +1808,7 @@ Chitamani Hospital,"('18.6260314', '73.8585771')",0(0),"General hospital · Shop
 Open ⋅ Closes 10 pm · 081492 45073",0,General hospital," Shop No. 2, near Shree Ram Vidya Madir School
 Open ⋅ Closes 10 pm ",0
 Dr. Keche Vighanharta Hospital,"('18.630721', '73.8502586')",5.0(2),"General hospital · Shop No 1, Dhawade Vasti
-Open ⋅ Closes 9 pm · 084468 80045",5.0,General hospital," Shop No 1, Dhawade Vasti
+Open ⋅ Closes 9 pm · 084468 80045",5,General hospital," Shop No 1, Dhawade Vasti
 Open ⋅ Closes 9 pm ",2
 shree sai hospital,"('18.6222676', '73.8690596')",4.5(13),"Hospital · shree sai hospital, gaon
 Open 24 hours",4.5,Hospital," shree sai hospital, gaon
@@ -1826,16 +1826,16 @@ Deokar Hospital,"('18.654157', '73.9097348')",4.6(5),"Hospital · MW35+MV9, Char
 Open ⋅ Closes 2 pm ⋅ Reopens 4 pm · 097623 63725",4.6,Hospital," MW35+MV9, Charholi Budruk - Nirgudi Rd
 Open ⋅ Closes 2 pm ⋅ Reopens 4 pm ",5
 Gurukripa Hospital,"('18.6549699', '74.0145069')",5.0(1),"General hospital · Shop No 5, Phulgon
-Open ⋅ Closes 8 pm · 086005 49100",5.0,General hospital," Shop No 5, Phulgon
+Open ⋅ Closes 8 pm · 086005 49100",5,General hospital," Shop No 5, Phulgon
 Open ⋅ Closes 8 pm ",1
 Aditi Multispeciality Hospital,"('18.6544375', '73.7439375')",0(0),"General hospital · Mp3V+Qhg, 2
 Open ⋅ Closes 9 pm · 098232 48337",0,General hospital," Mp3V+Qhg, 2
 Open ⋅ Closes 9 pm ",0
 Bidwe Hospital,"('18.6605146', '73.7312352')",1.0(1),"General hospital · Dehuroad Bus Stop, Mp6J6F4, opposite to Mukai Chowk
-Open ⋅ Closes 10 pm · 084840 14397",1.0,General hospital," Dehuroad Bus Stop, Mp6J6F4, opposite to Mukai Chowk
+Open ⋅ Closes 10 pm · 084840 14397",1,General hospital," Dehuroad Bus Stop, Mp6J6F4, opposite to Mukai Chowk
 Open ⋅ Closes 10 pm ",1
 Varad Hospital & Critical Care,"('18.6636084', '73.7353447')",4.0(32),"General hospital · Maalwale Nagar, 2, Adarsh Nagar Rd
-Open 24 hours · 099600 86699",4.0,General hospital," Maalwale Nagar, 2, Adarsh Nagar Rd
+Open 24 hours · 099600 86699",4,General hospital," Maalwale Nagar, 2, Adarsh Nagar Rd
 Open 24 hours ",32
 Flora Multispeciality Hospital,"('18.6466223', '73.7548417')",4.7(74),"Hospital · Janhavi Residency, Ravet High St, near D-Mart
 Open 24 hours",4.7,Hospital," Janhavi Residency, Ravet High St, near D-Mart
@@ -1849,12 +1849,12 @@ Open 24 hours",16
 Sterling Multispeciality Hospital,"('18.6545779', '73.769663')",3.3(601),"General hospital · Near, Sant Dyaneshwar Chowk
 Open 24 hours · 020 2733 2700",3.3,General hospital," Near, Sant Dyaneshwar Chowk
 Open 24 hours ",601
-Sai Clinic,"('18.6463986', '73.7659228')",4.0(1),"General hospital · JQW8+H93, Sant Namdev Marg",4.0,General hospital," JQW8+H93, Sant Namdev Marg",1
+Sai Clinic,"('18.6463986', '73.7659228')",4.0(1),"General hospital · JQW8+H93, Sant Namdev Marg",4,General hospital," JQW8+H93, Sant Namdev Marg",1
 mahajan hospital,"('18.6390116', '73.7647504')",4.0(4),"Hospital · 316/4/20, Datta Nagar Rd
-Open now · 098222 80584",4.0,Hospital," 316/4/20, Datta Nagar Rd
+Open now · 098222 80584",4,Hospital," 316/4/20, Datta Nagar Rd
 Open now ",4
 Dr.Dharukar's Clinic,"('18.6411481', '73.7727563')",5.0(1),"General hospital · Matruchaya, Om Chowk Near Hanuman Sweets, Bijli Nagar Rd
-Open ⋅ Closes 1:30 pm ⋅ Reopens 5 pm · 090759 50560",5.0,General hospital," Matruchaya, Om Chowk Near Hanuman Sweets, Bijli Nagar Rd
+Open ⋅ Closes 1:30 pm ⋅ Reopens 5 pm · 090759 50560",5,General hospital," Matruchaya, Om Chowk Near Hanuman Sweets, Bijli Nagar Rd
 Open ⋅ Closes 1:30 pm ⋅ Reopens 5 pm ",1
 Samarth Hospital,"('18.6453124', '73.7675134')",0(0),Hospital · JQW9+42C,0,Hospital, JQW9+42C,0
 Bijalinagar PCMC Talera Hospital OPD,"('18.6413133', '73.7742543')",4.1(7),"Government hospital · N1 602 nakshatram, Puna, Premlok Park Rd
@@ -1882,13 +1882,13 @@ Mental Health Multispeciality Cilinc,"('18.6514722', '73.8462482')",0(0),"Genera
 Open ⋅ Closes 9 pm · 086258 34266",0,General hospital," Shop No 5, Sant Nagar Moshi, 155
 Open ⋅ Closes 9 pm ",0
 Neville Hospital,"('18.6305225', '73.8221987')",5.0(2),"Maternity Centre · Shaukat Manzil, Flat No 3/4, above Jeejo Electricals, near Kuldeep Angan Society
-Open ⋅ Closes 2 pm ⋅ Reopens 6 pm",5.0,Maternity Centre," Shaukat Manzil, Flat No 3/4, above Jeejo Electricals, near Kuldeep Angan Society
+Open ⋅ Closes 2 pm ⋅ Reopens 6 pm",5,Maternity Centre," Shaukat Manzil, Flat No 3/4, above Jeejo Electricals, near Kuldeep Angan Society
 Open ⋅ Closes 2 pm ⋅ Reopens 6 pm",2
 Tejas Skin Cear Center,"('18.6469835', '73.849381')",0(0),"General hospital · Shop No 3
 Open ⋅ Closes 10 pm · 080871 16262",0,General hospital," Shop No 3
 Open ⋅ Closes 10 pm ",0
 Om Sai Hospital,"('18.6397355', '73.8758388')",4.0(9),"Hospital · Pune -Alandi Road Dnyan sai vihar, near Saibaba Mandir,Wadmukhwadi, Pune
-Open 24 hours · 082083 46142",4.0,Hospital," Pune -Alandi Road Dnyan sai vihar, near Saibaba Mandir,Wadmukhwadi, Pune
+Open 24 hours · 082083 46142",4,Hospital," Pune -Alandi Road Dnyan sai vihar, near Saibaba Mandir,Wadmukhwadi, Pune
 Open 24 hours ",9
 Reise Hospitality,"('18.6542326', '73.882148')",0(0),"General hospital · Shop No 3
 Open ⋅ Closes 9 pm · 088798 02424",0,General hospital," Shop No 3
@@ -1904,22 +1904,22 @@ Open ⋅ Closes 10 pm · 097301 58159",3.9,General hospital," Dharaskar Hospit
 Open ⋅ Closes 10 pm ",37
 Aditi Multi speciality hospital,"('18.6532622', '73.7524844')",4.3(6),Hospital · Pipeline Rd,4.3,Hospital, Pipeline Rd,6
 Care and Cure Multispecialty Hospital and Diagnostic Center,"('18.6500988', '73.7513477')",5.0(1),"Private hospital · Pipeline Rd
-Open 24 hours",5.0,Private hospital," Pipeline Rd
+Open 24 hours",5,Private hospital," Pipeline Rd
 Open 24 hours",1
 Navjeevan Hospital,"('18.6495508', '73.7775519')",4.1(35),"General hospital · 1st Floor, Ganraj Complex, Near Mhalsakant Chowk, Shri Mhalsakant Vidyalaya Road, Bijali Nagar, Ganga Nagar, Akurdi
 Open 24 hours · 020 2765 3974",4.1,General hospital," 1st Floor, Ganraj Complex, Near Mhalsakant Chowk, Shri Mhalsakant Vidyalaya Road, Bijali Nagar, Ganga Nagar, Akurdi
 Open 24 hours ",35
 Lokmanya hospital Nigdi,"('18.6559521', '73.7734193')","4.6(1,203)","Hospital · Lokmanya Hospital
 Open now · 098811 42101",4.6,Hospital," Lokmanya Hospital
-Open now ","1,203"
+Open now ",1203
 Patil Hospital,"('18.652788', '73.777874')",4.3(9),"Hospital · 411035, 52/7/42, Dattawadi Rd
 Open 24 hours · 072760 07161",4.3,Hospital," 411035, 52/7/42, Dattawadi Rd
 Open 24 hours ",9
 Sindhunagar Hospital,"('18.6568063', '73.7671067')",4.0(18),"Hospital · MQ48+PRH, Late Prabhakar Marg
-Closed ⋅ Opens 9 am Tue",4.0,Hospital," MQ48+PRH, Late Prabhakar Marg
+Closed ⋅ Opens 9 am Tue",4,Hospital," MQ48+PRH, Late Prabhakar Marg
 Closed ⋅ Opens 9 am Tue",18
 Panortho Hospital,"('18.656295', '73.768074')",1.0(2),"Hospital · 26, Pradhikaran Rd
-Open now",1.0,Hospital," 26, Pradhikaran Rd
+Open now",1,Hospital," 26, Pradhikaran Rd
 Open now",2
 Star Hospital Akurdi Pune,"('18.6517616', '73.7834622')",3.2(169),"Hospital · Old Mumbai - Pune Hwy, opposite to Force Motors Corporate Office, Next to Collection O 74312 Hotel Kundan Palace
 Open 24 hours · 077989 08880",3.2,Hospital," Old Mumbai - Pune Hwy, opposite to Force Motors Corporate Office, Next to Collection O 74312 Hotel Kundan Palace
@@ -1937,22 +1937,22 @@ Open 24 hours ",483
 Ahilyadevi Holker Davakhana,"('18.65025', '73.7990186')",3.8(9),"Government hospital · MQ2X+3JR
 Open ⋅ Closes 5 pm",3.8,Government hospital," MQ2X+3JR
 Open ⋅ Closes 5 pm",9
-Mayur Hospital,"('18.666213', '73.795933')",4.0(43),"General hospital · E) post office, Survey No. 4742 Behind Jai Hind Petrol pump Next",4.0,General hospital," E) post office, Survey No. 4742 Behind Jai Hind Petrol pump Next",43
+Mayur Hospital,"('18.666213', '73.795933')",4.0(43),"General hospital · E) post office, Survey No. 4742 Behind Jai Hind Petrol pump Next",4,General hospital," E) post office, Survey No. 4742 Behind Jai Hind Petrol pump Next",43
 Vital Multispeciality Hospital,"('18.649669', '73.8093255')",4.3(6),"Hospital · JRX5+VP8, New Telco Rd",4.3,Hospital," JRX5+VP8, New Telco Rd",6
 Supertech Hospital,"('18.64506', '73.828696')",3.0(4),"Hospital · J-251, M I D C, Bhosari, Bhosari
-Open ⋅ Closes 11 pm · 097632 71111",3.0,Hospital," J-251, M I D C, Bhosari, Bhosari
+Open ⋅ Closes 11 pm · 097632 71111",3,Hospital," J-251, M I D C, Bhosari, Bhosari
 Open ⋅ Closes 11 pm ",4
 The Ent Clinic,"('18.651786', '73.846598')",0(0),"General hospital · 13
 Open ⋅ Closes 6 pm · 084439 29292",0,General hospital," 13
 Open ⋅ Closes 6 pm ",0
 ANAMAY MULTI-SPECIALITY HOSPITAL,"('18.6540867', '73.8451415')",5.0(1),"Hospital · vyankteshwara society, draupadi bunglow,Sec no -4 , sant Nagar
-Open ⋅ Closes 10:30 pm",5.0,Hospital," vyankteshwara society, draupadi bunglow,Sec no -4 , sant Nagar
+Open ⋅ Closes 10:30 pm",5,Hospital," vyankteshwara society, draupadi bunglow,Sec no -4 , sant Nagar
 Open ⋅ Closes 10:30 pm",1
 Commando Hospital,"('18.646091', '73.8492057')",4.0(3),"Hospital · C-2, Spine Rd
-Open now",4.0,Hospital," C-2, Spine Rd
+Open now",4,Hospital," C-2, Spine Rd
 Open now",3
 Shree Hospital,"('18.651108', '73.843377')",5.0(2),"Hospital · Opp. High School, near Nageshwar garage
-Open ⋅ Closes 11 pm · 098222 88230",5.0,Hospital," Opp. High School, near Nageshwar garage
+Open ⋅ Closes 11 pm · 098222 88230",5,Hospital," Opp. High School, near Nageshwar garage
 Open ⋅ Closes 11 pm ",2
 Hodpitl,"('18.6531551', '73.843073')",0(0),Hospital · MR3V+768,0,Hospital, MR3V+768,0
 ACCORD Hospitals - Best Multispecialty Tertiary Care Hospital in PCMC,"('18.6481452', '73.849774')",4.1(925),"Hospital · Plot No. 1, 1, Spine Rd
@@ -1962,19 +1962,19 @@ Shree Swami Clinic,"('18.6545867', '73.8521999')",0(0),"General hospital · 2, A
 Open ⋅ Closes 9 pm · 098236 92822",0,General hospital," 2, Adarsh Nagar Moshi, Tukai Nivas At Post Moshi Aadarshnagar Tal Haveli Dist Pin, Gandharv Nagari, Adarsh Nagar, Tapkir Nagar, Moshi, Pimpri-Chinchwad, Division
 Open ⋅ Closes 9 pm ",0
 Unity Hospital,"('18.6801668', '73.8947867')",5.0(1),"General hospital · Shop No, 1, Chimbali Rd
-Open ⋅ Closes 10 pm · 095459 88283",5.0,General hospital," Shop No, 1, Chimbali Rd
+Open ⋅ Closes 10 pm · 095459 88283",5,General hospital," Shop No, 1, Chimbali Rd
 Open ⋅ Closes 10 pm ",1
 Rode Multispeciality Hospital,"('18.6607273', '73.8929185')",4.6(13),"Hospital · Sr. No. 161, Azad Nagar, Airport Road
 Open 24 hours",4.6,Hospital," Sr. No. 161, Azad Nagar, Airport Road
 Open 24 hours",13
 Pashaydan Hospital,"('18.6829184', '73.9022362')",5.0(1),"General hospital · 1, Alandi Rd, opp. Goshala
-Open ⋅ Closes 11 pm · 094032 77796",5.0,General hospital," 1, Alandi Rd, opp. Goshala
+Open ⋅ Closes 11 pm · 094032 77796",5,General hospital," 1, Alandi Rd, opp. Goshala
 Open ⋅ Closes 11 pm ",1
 Chaitanya Hospital,"('18.6707282', '73.9171414')",5.0(1),"Hospital · Pcs chouk Alndi marakal road, Road
-Open 24 hours",5.0,Hospital," Pcs chouk Alndi marakal road, Road
+Open 24 hours",5,Hospital," Pcs chouk Alndi marakal road, Road
 Open 24 hours",1
 Shree Vitthal Hospital,"('18.6827942', '73.8899442')",3.0(1),"General hospital · Shop No 2, Chimbali Rd
-Open ⋅ Closes 9 pm · 073877 78189",3.0,General hospital," Shop No 2, Chimbali Rd
+Open ⋅ Closes 9 pm · 073877 78189",3,General hospital," Shop No 2, Chimbali Rd
 Open ⋅ Closes 9 pm ",1
 Ganga Hospital,"('18.620322', '74.0245451')",4.3(3),"Hospital · Opp.Police Station,Nagar Road,Lonikand
 Open ⋅ Closes 9 pm",4.3,Hospital," Opp.Police Station,Nagar Road,Lonikand
@@ -1999,7 +1999,7 @@ Open ⋅ Closes 10 pm ",0
 Gosavi Hospital,"('18.6733111', '73.7804782')",0(0),"General hospital · Gosavi Hospital, Rupinagar1, Q
 Open ⋅ Closes 9 pm · 080104 90063",0,General hospital," Gosavi Hospital, Rupinagar1, Q
 Open ⋅ Closes 9 pm ",0
-مستشفى لوكمانيا,"('18.6562312', '73.7732045')",5.0(1),Hospital · 266,5.0,Hospital, 266,1
+مستشفى لوكمانيا,"('18.6562312', '73.7732045')",5.0(1),Hospital · 266,5,Hospital,266,1
 icon Hospital,"('18.6718795', '73.7875966')",3.6(148),"General hospital · Tower Line, corner, Triveni Nagar Rd
 Open 24 hours · 080 4278 1564",3.6,General hospital," Tower Line, corner, Triveni Nagar Rd
 Open 24 hours ",148
@@ -2010,15 +2010,15 @@ Ghadage Hospital - Multispeciality Hospital In PCMC,"('18.6694495', '73.790416')
 Open 24 hours",4.6,Hospital department," Sector No. 20, Plot No. 33A/1 Near Mhetrevasti
 Open 24 hours",43
 Health Care Hospital,"('18.6701473', '73.7917889')",5.0(6),"Hospital · 335, K Mahadev Gopal Shivarkar Rd
-Open 24 hours · 096655 12395",5.0,Hospital," 335, K Mahadev Gopal Shivarkar Rd
+Open 24 hours · 096655 12395",5,Hospital," 335, K Mahadev Gopal Shivarkar Rd
 Open 24 hours ",6
 Hope Hospital,"('18.6604686', '73.7956102')",5.0(1),"Hospital · Omkar Plaza, , Near Axis Bank,/ Shipra HotelBank Sambhaji Nagar, Tharmax, Chowk
-Open 24 hours",5.0,Hospital," Omkar Plaza, , Near Axis Bank,/ Shipra HotelBank Sambhaji Nagar, Tharmax, Chowk
+Open 24 hours",5,Hospital," Omkar Plaza, , Near Axis Bank,/ Shipra HotelBank Sambhaji Nagar, Tharmax, Chowk
 Open 24 hours",1
 Sashwat Hospital,"('18.6685291', '73.7968368')",0(0),"General hospital · Shop No 44, Chinchwad
 Open ⋅ Closes 9 pm · 073787 40153",0,General hospital," Shop No 44, Chinchwad
 Open ⋅ Closes 9 pm ",0
-Aswini Hospital,"('18.6676388', '73.7942575')",5.0(1),Hospital · MQ9V+3P2,5.0,Hospital, MQ9V+3P2,1
+Aswini Hospital,"('18.6676388', '73.7942575')",5.0(1),Hospital · MQ9V+3P2,5,Hospital, MQ9V+3P2,1
 PCMC Hospital,"('18.6694968', '73.7935299')",2.3(3),"Hospital · 335, K Mahadev Gopal Shivarkar Rd
 Closes soon ⋅ 1 pm ⋅ Opens 9 am Tue",2.3,Hospital," 335, K Mahadev Gopal Shivarkar Rd
 Closes soon ⋅ 1 pm ⋅ Opens 9 am Tue",3
@@ -2041,10 +2041,10 @@ City Plus Hospital,"('18.6749631', '73.8048161')",0(0),"General hospital · Mrf3
 Open ⋅ Closes 9 pm · 084848 10088",0,General hospital," Mrf3+Xwp, Newale Wasti, Chikhali
 Open ⋅ Closes 9 pm ",0
 swaroop clinic,"('18.6614365', '73.8044237')",5.0(1),"General hospital · MR63+HQF, Shivtej Nagar Rd
-Open now",5.0,General hospital," MR63+HQF, Shivtej Nagar Rd
+Open now",5,General hospital," MR63+HQF, Shivtej Nagar Rd
 Open now",1
 Clinic,"('18.6713369', '73.8280611')",4.0(1),"Hospital · MRCH+G6M, Jadhavwadi Rd
-Open now",4.0,Hospital," MRCH+G6M, Jadhavwadi Rd
+Open now",4,Hospital," MRCH+G6M, Jadhavwadi Rd
 Open now",1
 Maske Hospital,"('18.6790427', '73.8466794')",0(0),"General hospital · Shop No 2
 Open ⋅ Closes 10 pm · 097665 17797",0,General hospital," Shop No 2
@@ -2071,19 +2071,19 @@ Pushpa Hospital,"('18.667522', '73.888967')",4.6(14),"Hospital · MV9Q+2H4, Kate
 Open ⋅ Closes 11 pm · 092263 45244",4.6,Hospital," MV9Q+2H4, Kate Vasti, Alandi Rd, behind Ramakrishna Hari Ashram
 Open ⋅ Closes 11 pm ",14
 Kachare Hospital,"('18.6723766', '73.8892792')",5.0(28),"Hospital · Comm, New Arts Commerce & Science College Alkuti, Near Gajanan Maharaj Bhakt Niwas opp. MIT
-Open ⋅ Closes 10:30 pm",5.0,Hospital," Comm, New Arts Commerce & Science College Alkuti, Near Gajanan Maharaj Bhakt Niwas opp. MIT
+Open ⋅ Closes 10:30 pm",5,Hospital," Comm, New Arts Commerce & Science College Alkuti, Near Gajanan Maharaj Bhakt Niwas opp. MIT
 Open ⋅ Closes 10:30 pm",28
 Shri Sai Hospital,"('18.672586', '73.8922659')",4.5(17),"Hospital · Haveli, Pune Alandi Road, Dehu Phata, Near New ST Stand, Dehu Phata, Alandi Devachi, Tal
 Open 24 hours · 098220 71502",4.5,Hospital," Haveli, Pune Alandi Road, Dehu Phata, Near New ST Stand, Dehu Phata, Alandi Devachi, Tal
 Open 24 hours ",17
 Shree Multispecialty Hospital in charholi budruk pune,"('18.6570356', '73.8984924')",5.0(11),"Hospital · Bk, Dadhadevasti, near Bank Of Maharashtra
-Open 24 hours",5.0,Hospital," Bk, Dadhadevasti, near Bank Of Maharashtra
+Open 24 hours",5,Hospital," Bk, Dadhadevasti, near Bank Of Maharashtra
 Open 24 hours",11
 "K K CARE Hospital- Multispeciality Hospital In Charholi, Pune","('18.6553238', '73.8844951')","4.9(2,093)","Hospital · PADMAVATI COMPLEX, Pune - Alandi Rd
 Open 24 hours · 096571 39657",4.9,Hospital," PADMAVATI COMPLEX, Pune - Alandi Rd
-Open 24 hours ","2,093"
+Open 24 hours ",2093
 Nityaseva Multispeciality Hospital,"('18.6667304', '73.9276593')",4.0(12),"Hospital · Alandi-Markal Rd
-Open 24 hours · 089830 31830",4.0,Hospital," Alandi-Markal Rd
+Open 24 hours · 089830 31830",4,Hospital," Alandi-Markal Rd
 Open 24 hours ",12
 Anand Hospital,"('18.6765711', '73.901705')",4.4(17),"Private hospital · h.no, 1078, Alandi-Markal Rd
 Open now · 099231 59101",4.4,Private hospital," h.no, 1078, Alandi-Markal Rd
@@ -2096,7 +2096,7 @@ Open ⋅ Closes 5 am Tue",3.7,Hospital," Alandi-Markal Rd
 Open ⋅ Closes 5 am Tue",28
 K K MULTISPECIALITY HOSPITAL,"('18.6768291', '73.9014121')","4.9(1,539)","Hospital · Alandi-Markal Rd, near JALARAM MANDIR
 Open 24 hours · 085509 92655",4.9,Hospital," Alandi-Markal Rd, near JALARAM MANDIR
-Open 24 hours ","1,539"
+Open 24 hours ",1539
 Cantonment Hospital,"('18.6827084', '73.7290811')",3.3(24),"Hospital · Old Mumbai - Pune Hwy, opposite Gurudwara Dehu Road
 Open 24 hours · 020 2767 1210",3.3,Hospital," Old Mumbai - Pune Hwy, opposite Gurudwara Dehu Road
 Open 24 hours ",24
@@ -2110,7 +2110,7 @@ Goyal Hospital,"('18.6793647', '73.7327421')",0(0),"General hospital · Shop No.
 Open ⋅ Closes 10 pm · 099702 40240",0,General hospital," Shop No. 22 Dehu Road, Near Salim Auto, Dehu, near Salim Auto
 Open ⋅ Closes 10 pm ",0
 Seth Chaturbhuj Hospital,"('18.6817943', '73.7303618')",2.0(1),"Hospital · MPJJ+P49, Dehu Road, Old Mumbai - Pune Hwy
-Open ⋅ Closes 9 pm",2.0,Hospital," MPJJ+P49, Dehu Road, Old Mumbai - Pune Hwy
+Open ⋅ Closes 9 pm",2,Hospital," MPJJ+P49, Dehu Road, Old Mumbai - Pune Hwy
 Open ⋅ Closes 9 pm",1
 Mauli Hospital,"('18.6724884', '73.7322413')",4.2(6),Hospital · MPCJ+XVX,4.2,Hospital, MPCJ+XVX,6
 Dr. Sunil Wankhede Multispeciality Hospital,"('18.6713885', '73.7351416')",4.9(15),"Hospital · Opp, Wisdom School Road
@@ -2135,10 +2135,10 @@ Mauli Hospital,"('18.677048', '73.781431')",0(0),"Private hospital · MQGJ+RH7, 
 Open now",0,Private hospital," MQGJ+RH7, Maa Sahib Minatiy Thakrey Marg
 Open now",0
 Guru Ganesh Hospital,"('18.6694813', '73.7976913')",5.0(2),"Hospital · MQ9X+Q3W, Sane Chowk, Chikhali Akurdi Rd
-Open now · 098903 98238",5.0,Hospital," MQ9X+Q3W, Sane Chowk, Chikhali Akurdi Rd
+Open now · 098903 98238",5,Hospital," MQ9X+Q3W, Sane Chowk, Chikhali Akurdi Rd
 Open now ",2
 Gharkul Hospital,"('18.6710627', '73.8060549')",5.0(2),"Hospital · Basaveshwar Bhavan Gat no -1141 Sai pryaga housing society
-Open now",5.0,Hospital," Basaveshwar Bhavan Gat no -1141 Sai pryaga housing society
+Open now",5,Hospital," Basaveshwar Bhavan Gat no -1141 Sai pryaga housing society
 Open now",2
 mgmominmultispecialityhospital,"('18.6744347', '73.8140546')",0(0),"Hospital ·
 Open 24 hours",0,Hospital,"
@@ -2162,7 +2162,7 @@ Dr Saima Chogale,"('18.6833569', '73.8352488')",4.8(42),"General hospital · 216
 Closes soon ⋅ 12:30 pm ⋅ Reopens 5:30 pm · 075584 41235",4.8,General hospital," 216 Swaraj Capital, Dehu - Alandi Rd
 Closes soon ⋅ 12:30 pm ⋅ Reopens 5:30 pm ",42
 Prime speciality hospital,"('18.6796316', '73.8389164')",5.0(1),"Hospital · 1st floor, Phase 2, Nisarg vatika, Dehu Moshi road, 412105
-Open ⋅ Closes 5 pm",5.0,Hospital," 1st floor, Phase 2, Nisarg vatika, Dehu Moshi road, 412105
+Open ⋅ Closes 5 pm",5,Hospital," 1st floor, Phase 2, Nisarg vatika, Dehu Moshi road, 412105
 Open ⋅ Closes 5 pm",1
 Adishakti Hospital,"('18.6793754', '73.8484199')",4.6(37),"Hospital · Dehu - Alandi Rd, near Hotel Ramkrishna
 Open 24 hours · 090494 01845",4.6,Hospital," Dehu - Alandi Rd, near Hotel Ramkrishna
@@ -2171,7 +2171,7 @@ Vighnaharta multispeciality clinic,"('18.6829354', '73.8452361')",4.6(9),"Hospit
 Open 24 hours · 098341 85505",4.6,Hospital," MRMW+53H
 Open 24 hours ",9
 Sai Sham Hospital,"('18.6792766', '73.8476079')",5.0(3),"Hospital · MRHX+P29
-099757 73177",5.0,Hospital," MRHX+P29
+099757 73177",5,Hospital," MRHX+P29
 099757 73177",3
 शतायु हॉस्पिटल अँड माऊली मेडिकल स्टोअर,"('18.6785942', '73.857944')",0(0),"Hospital · Dehu - Alandi Rd
 Closed ⋅ Opens 7 am Tue",0,Hospital," Dehu - Alandi Rd
@@ -2180,10 +2180,10 @@ Unity Hospital in Moshi,"('18.6777088', '73.8747676')",4.1(18),"Hospital · MVHF
 Open 24 hours · 083081 55311",4.1,Hospital," MVHF+3WJ, Moshi Alandi Road , Yogeshwar heights, Dist, near me Emerald Hotel
 Open 24 hours ",18
 "Chavan Hospital,","('18.6779825', '73.8713379')",5.0(4),"Hospital · Chavan Hospital Arise Canary Society, Moshi -Alandi BRT Road, Talekar Nagar, Dudulgaon
-Open 24 hours · 077219 09692",5.0,Hospital," Chavan Hospital Arise Canary Society, Moshi -Alandi BRT Road, Talekar Nagar, Dudulgaon
+Open 24 hours · 077219 09692",5,Hospital," Chavan Hospital Arise Canary Society, Moshi -Alandi BRT Road, Talekar Nagar, Dudulgaon
 Open 24 hours ",4
 Alandi Hospital,"('18.6715183', '73.8922758')",5.0(5),"Hospital · Bidkar Vada
-Open now",5.0,Hospital," Bidkar Vada
+Open now",5,Hospital," Bidkar Vada
 Open now",5
 "Rural Hospital, Alandi","('18.6751504', '73.8980026')",3.8(17),"Hospital · MVGX+366
 Open now",3.8,Hospital," MVGX+366
@@ -2192,5 +2192,5 @@ Samarth Multispeciality Hospital Alandi | Best Hospital in Alandi | Best Surgery
 Open 24 hours · 087665 68948",4.6,Hospital," Dnyadeep Chambers, Datta Mandir Road
 Open 24 hours ",11
 Mangesh Hospital and Nursing Home,"('18.6426779', '74.0519118')",5.0(8),"Hospital · J3R2+5FW
-Open 24 hours",5.0,Hospital," J3R2+5FW
+Open 24 hours",5,Hospital," J3R2+5FW
 Open 24 hours",8
