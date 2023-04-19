@@ -1,120 +1,35 @@
-dhanori
-mundhva
-shivane
-malewadi
-baner
-pune
-shivajinagar
-bibvewadi
-hadapsar
-kaivalyadham
-dhankawadi
-khadki
-mohamadwadi
-vishrantwadi
-phursungi
-lohogaon
-vagholi
-sopannagar
-armament
-karvenagar
-katraj
-parvati
-swargate
-yerwada
-kothrud
-bavdhan
-warje
-nagpur
-Mumbai
-Kalwa
-Mumbra
-Mulund
-Airoli
-Rabale
-Kopar Khairne
-Turbhe
-Washi
-Kalyan
-Dombivli
-Badlapur
-Ulhasnagar
-Bhiwandi
-Kurla
-Andheri 
-Goregaon
-Bandra
-Malad
-Borivali
-Nashik
-Deolali
-Sinnar
-Dindori
-Trimbak
-Niphad
-Ojhar
-Vani
-Lasalgaon
-Chandwad
-Malegaon
-Manmad
-Shirdi
-Kopargaon
-Shrirampur
-Aurangabad
-Jalna
-Akola
-Amravati
-Wardha
-Verul
-Kannad
-Gangapur
-Shani Shingnapur
-Shevgaon
-Ahmednagar
-Rahuri
-Parner
-Shirur
-Alephata
-Narayangaon
-Manchar
-Sangamner
-Akole
-Bhandardara
-Junnar
-Shahapur
-Karjat
-Lonavala
-Chakan
-Jejuri
-Saswad
-Lavasa
-Rajgad
-Raigad
-Mahad
-Murud
-Pen
-Alibaug
-Diveagar
-Ratnagiri
-Mahabaleshwar
-Wai
-Satara
-Koregaon
-Karad
-Sangli
-Kolhapur
-Solapur
-Latur
-Nanded
-Paithan
-Yeola
-Dhule
-Amalner
-Erandol
-Jalgaon
-Parola
-Bhusawal
-Jamner
-Pachora
-Chalisgaon
+Aadhar Multispeciality Hospital, Narhe Pune
+Anmol Multispeciality Clinic Hospital
+ANUJA HOSPITAL
+Bharati Hospital
+City Care Hospital
+City Hospital
+Gawali Hospital
+jalore hospital
+Jeevan Uday Multispeciality Hospital
+Khetmalas Hospital
+KHETMALAS Hospital1
+Lifeline Hospital
+Mai Mangeshkar Hospital
+Manas Hospital
+MINERVA HOSPITAL
+Mixis Multi Specialty Hospital
+Nagare Nursing Home
+Nanded Multispeciality Hospital
+PATIL MULTISPECIALITY HOSPITAL AND LAPROSCOPY CENTER
+Pune Medical and Research
+Royal Hospital
+Sai Sneh Hospital and Diagnostic Center
+sanjivani hospital
+Sharayu Multispeciality Hospital
+SHIVNERI HOSPITAL
+Shraddha Hospitals
+SHREE HOSPITAL, NARHE, PUNE
+Shreeyash Multi-speciality Hospital
+Shrimangal hospital
+Shwas Multispeciality Hospital
+Siddhivinayak General Hospital
+SILVER BIRCH MULTISPECIALITY HOSPITAL PVT.LTD
+Sinhagad Speciality Hospital
+Thube Nursing Home
+VIGHNAHARTA HOSPITAL
