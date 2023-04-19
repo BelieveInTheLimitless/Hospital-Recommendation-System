@@ -1,0 +1,95 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgba(39, 30, 66, 0.96);
+  }
+  
+  header {
+    background-color: #5161cc;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  nav {
+    background-color: #ccc;
+    padding: 10px;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #333;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.6s ease;
+  }
+  
+  nav a:hover {
+    color: #fff;
+    background-color: #ab9999;
+    
+  }
+  
+  section {
+    margin: 20px;
+    background-color: rgb(188, 207, 243);
+  }
+  
+  fieldset {
+    border: none;
+    padding: 0;
+  }
+  
+  legend {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+  
+  input[type="text"],
+  select {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(220, 224, 230);
+    color: rgb(41, 65, 86);
+    align-items: center;
+  }
+
+  footer {
+    padding: auto;
+    place-content: bottom;
+    background-color: rgb(188, 207, 243);
+    justify-content: center;
+    size: 50px;
+  }
+
+  button {
+    font-size: large;
+    padding: 5px 12px;
+    background-color: rgb(255, 255, 255);
+    transition: background-color 0.4s ease;
+  }
+
+  button:hover{
+    background-color: rgb(127, 200, 255);
+  }
