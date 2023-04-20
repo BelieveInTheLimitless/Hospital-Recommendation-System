@@ -24,7 +24,7 @@ def extract_type(Info):
 def extract_number(Rating):
 
     parts = Rating.split('(')
-    print(parts)
+    #print(parts)
     number = parts[1].split(')')
     Return = number[0]
     return Return
@@ -32,8 +32,28 @@ def extract_number(Rating):
 def extract_rating(Rating):
 
     parts = Rating.split('(')
-    print(parts)
+    #print(parts)
     return parts[0]
+
+def extract_latitude(coordinates):
+
+    parts = coordinates.split("('")
+    number = parts[1]
+    number = number.split(",")
+    latitude = number[0].split("'")
+    print(latitude[0])
+    return latitude[0]
+
+def extract_longitude(coordinates):
+
+    parts = coordinates.split("('")
+    number = parts[1]
+    number = number.split(",")
+    longitude = number[1].split("'")
+    longitude = longitude[1].split("'")
+    print(longitude[0])
+    return longitude[0]
+
 
 # Define a function to extract the hospital type
 def extract_address(Info):
@@ -45,6 +65,8 @@ def extract_address(Info):
 
 # Apply the function to the 'Address' column to extract the city name
 
+data['Latitude'] = data['Co-ordinates'].apply(extract_latitude)
+data['Longitude'] = data['Co-ordinates'].apply(extract_longitude)
 data['Ratings'] = data['Rating'].apply(extract_rating)
 data.drop(['Rating'], axis=1)
 data['Type_hospital'] = data['Info'].apply(extract_type)
