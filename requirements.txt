@@ -1,2 +1,3 @@
 selenium
-flask
+bs4
+sklearn
