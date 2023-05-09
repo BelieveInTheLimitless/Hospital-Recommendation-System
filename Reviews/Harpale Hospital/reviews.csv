@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rating,Review
 5 stars,Good 
 5 stars,None
@@ -7,3 +8,14 @@ Rating,Review
 5 stars,None
 1 star,None
 5 stars,None
+=======
+Rating,Review
+5 stars,Good 
+5 stars,None
+3 stars,None
+5 stars,None
+5 stars,None
+5 stars,None
+1 star,None
+5 stars,None
+>>>>>>> dadef325638232dc406ca53b7d8b40f838d2a09f
